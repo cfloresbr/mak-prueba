@@ -44,7 +44,7 @@ try {
 
     //Recipients
     $mail->setFrom('cflores@itservice.consulting', 'Contacto');          //This is the email your form sends From
-    $mail->addAddress('mak@mak.cl', 'MAK'); // Add a recipient address
+    $mail->addAddress('carlos.a.flores.a@gmail.com', 'MAK'); // Add a recipient address
     //$mail->addAddress('ivalderrama.lorca@gmail.com', 'Joe User'); // Add a recipient address
 
     //Content
