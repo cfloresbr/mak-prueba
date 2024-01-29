@@ -1,5 +1,5 @@
 #contact {
-	margin-top: 30px;
+	/*margin-top: 70px;*/
 }
 #contact .contact{
 	margin: 40px 0 100px 0;
@@ -21,28 +21,31 @@
 	margin: 0;
 }
 #contact .form .box input[type="text"]{
-	padding-left: 39px;
+	padding-left: 39px!important;
 	margin-bottom: 10px;
 	color: black;
 	height: 29px;
-	border-radius: 3px;
-	width: 89%;
+	border-radius: 0;
+	outline-style: none;
+	border: 1px solid #ddd!important;
+	height: 2.5rem;
+	margin-left: 1rem!important;
 }
 #contact .form .box input.name{
-	background: url('https://www.mak.cl/files/img/formname.png') #fff no-repeat 5px;
+	background: url('../files/img/formname.png') #fff no-repeat 5px;
 }
 #contact .form .box input.mail{
-	background: url('https://www.mak.cl/files/img/formmail.png') #fff no-repeat 5px;
+	background: url('../files/img/formmail.png') #fff no-repeat 5px;
 }
 #contact .form .box input.phone{
-	background: url('https://www.mak.cl/files/img/formphone.png') #fff no-repeat 5px;
+	background: url('../files/img/formphone.png') #fff no-repeat 5px;
 }
 #contact .form .box_r{
 	float: right;
 }
 #contact .form .box textarea{
 	padding: 11px;
-	width: 94%;
+	
 	margin: 0;
 	border-radius: 3px;
 	height: 113px;
@@ -177,7 +180,7 @@
 	background: #252528;
 }
 .contacticos{
-	background: url('https://www.mak.cl/img/contact_icos.png') no-repeat;
+	background: url('../img/contact_icos.png') no-repeat;
 	width: 24px;
 	height: 44px;
 }

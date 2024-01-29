@@ -14,7 +14,7 @@ session_start();
 
 if (!isset($_POST['token']) || $_POST['token'] !== $_SESSION['token']) {
     $_SESSION['status'] = 'Formulario invalido';
-    header("Location: index.php.html");
+    header("Location: index.php");
     exit;
 }
 
@@ -22,7 +22,7 @@ if(!isset($_POST['name']) || trim($_POST['name']) === ""
 || !isset($_POST['mail']) || trim($_POST['mail']) === ""
 || !isset($_POST['comentario']) || trim($_POST['comentario']) === "") {
     $_SESSION['status'] = 'Debe completar nombre, correo y comentario para enviar un mensaje de contacto.';
-    header("Location: index.php.html");
+    header("Location: index.php");
     exit;
 }
 
@@ -37,28 +37,28 @@ try {
     $mail->isSMTP();                                      // Set mailer to use SMTP
     $mail->Host = 'smtp.office365.com';                  // Specify main and backup SMTP servers
     $mail->SMTPAuth = true;                               // Enable SMTP authentication
-    $mail->Username = 'cflores@itservice.consulting';             // SMTP username
-    $mail->Password = 'Cafa230296';                           // SMTP password
+    $mail->Username = 'info@itservice.consulting';             // SMTP username
+    $mail->Password = 'ServiceIT@2023.';                           // SMTP password
     $mail->SMTPSecure = 'tls';                            // Enable SSL encryption, TLS also accepted with port 465
-    $mail->Port = 587;                                    // TCP port to connect to
+    $mail->Port = 25;                                    // TCP port to connect to
 
     //Recipients
-    $mail->setFrom('cflores@itservice.consulting', 'Contacto');          //This is the email your form sends From
-    $mail->addAddress('carlos.a.flores.a@gmail.com', 'MAK'); // Add a recipient address
+    $mail->setFrom('info@itservice.consulting', 'Contacto');          //This is the email your form sends From
+    $mail->addAddress('cflores@itservice.consulting', 'MAK'); // Add a recipient address
     //$mail->addAddress('ivalderrama.lorca@gmail.com', 'Joe User'); // Add a recipient address
 
     //Content
     $mail->isHTML(true);                                  // Set email format to HTML
-    $mail->Subject = 'Consulta desde el portal';
-    $mail->Body    = 'Nombre: ' . $name . '<br> Correo ' . $email . '<br> Telefono: ' . $telefono . '<br> Comentario: "' . $message . '"';
+    $mail->Subject = 'Nueva consulta desde el portal';
+    $mail->Body    = 'Nombre: ' . $name . '<br> Correo: ' . $email . '<br> Telefono: ' . $telefono . '<br> Comentario: "' . $message . '"';
 
     $mail->send();
     $_SESSION['status'] = 'Mensaje enviado. Muchas gracias';
     unset($_SESSION['token']);
-    header("Location: index.php.html");
+    header("Location: index.php");
 } catch (Exception $e) {
     $_SESSION['status'] = 'Problemas para enviar el mensaje. Intentelo más tarde';
-    header("Location: index.php.html");
+    header("Location: index.php");
     //echo 'Mailer Error: ' . $mail->ErrorInfo;
 }
 ?>

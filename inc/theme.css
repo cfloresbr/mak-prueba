@@ -309,7 +309,11 @@ nav {
 }
 
 /* --------------------------------------------------------- */
-
+.alert-formulario{
+	background-color: white!important;
+	border: 1px solid #4C0D06!important;
+	color: #4C0D06!important;
+}
 
 .sin-underline:hover{
 	text-decoration: none;
@@ -324,10 +328,12 @@ textarea {
 	border: 1px solid #ddd;
 	height: 2.5rem;
 	padding-left: 15px;
+	
 }
 textarea{
 	padding-top: 5px;
 	height: 150px;
+	width: 100%!important;
 }
 .greyArea{
     padding-top:3.125rem;

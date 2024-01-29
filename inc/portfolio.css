@@ -95,13 +95,13 @@ a:hover {
 	
 }
 /* Portrait tablet to landscape and desktop */
-@media (min-width: 480px) and (max-width: 979px) { 
+@media (min-width: 768px) and (max-width: 979px) { 
 	#portfolio_tem .left_box .big{
 		height: 372px;
 	}
 }	
 /* Landscape phone to portrait tablet */
-@media (max-width: 480px) {
+@media (max-width: 767px) {
 	#portfolio_tem .left_box{
 		margin-bottom: 50px;
 	}

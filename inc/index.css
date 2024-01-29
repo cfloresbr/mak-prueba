@@ -37,9 +37,6 @@
     padding: 0 6px;
     cursor: pointer;
 }
-ul {
-    list-style: none!important;
-}
 #pagination li a {
     width: 7px;
     height: 7px;
@@ -179,7 +176,7 @@ ul {
     position: absolute;
     top: 250px;
     left: 0;
-    background: url(https://www.mak.cl/img/leftright-arrows.png) no-repeat;
+    background: url(../img/leftright-arrows.png) no-repeat;
     opacity: .5;
     -webkit-transition: opacity .1s linear;
     -moz-transition: opacity .1s linear;
@@ -206,7 +203,7 @@ ul {
 /* Showcase services
 -------------------------------------------------- */
 #showcase {
-    margin-top: 50px;
+    margin-top: 70px;
 }
 /*
 #showcase .container {
@@ -291,7 +288,8 @@ ul {
 /* Features
 -------------------------------------------------- */
 #features {
-    margin-bottom: -40px;
+    margin-top: 25px;
+    margin-bottom: -20px;
     text-align: justify;
 }
 #features .feature {
@@ -490,19 +488,19 @@ ul {
     width: 138px;
 }
 #clients .client .client1 {
-    background: url('https://www.mak.cl/img/client1.png') 0 -75px;
+    background: url('../img/client1.png') 0 -75px;
 }
 #clients .client .client1:hover {
     background-position: 1px 0px;
 }
 #clients .client .client2 {
-    background: url('https://www.mak.cl/img/client2.png') 0 -75px;
+    background: url('../img/client2.png') 0 -75px;
 }
 #clients .client .client2:hover {
     background-position: -1px 0px;
 }
 #clients .client .client3 {
-    background: url('https://www.mak.cl/img/client3.png') 0 -76px;
+    background: url('../img/client3.png') 0 -76px;
 }
 #clients .client .client3:hover {
     background-position: 0px 0px;
@@ -536,7 +534,7 @@ ul {
     }    
 }
 /* Portrait tablet to landscape and desktop */
-@media (min-width: 489px) and (max-width: 979px) { 
+@media (min-width: 768px) and (max-width: 979px) { 
     #in_pricing .plan a.order{
         width: 64%;
     }
