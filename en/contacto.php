@@ -109,11 +109,11 @@
 							Thank you for contacting us, we will answer your questions as soon as possible.<br><br>
 							</p>
 						</div>
-						<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
 							<!-- Datos de contacto -->
 							<p><i class="fa fa-map-marker pre" style="margin-right: 0.5rem; color: #4C0D06;" aria-hidden="true"></i>Huérfanos 835, office 1703, building Opera, Santiago</p>
 						</div>
-						<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12" style="margin-bottom: 20px;">
+						<div class="col-lg-2 col-md-2 col-sm-12 col-xs-12" style="margin-bottom: 20px;">
 							<!-- Correo con link de contacto-->
 							<a class="link" href="mailto:%20mak@mak.cl" style="font-size: 1.125rem!important;"><i class="fa fa-envelope pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>mak@mak.cl</a>
 						</div>
@@ -170,8 +170,8 @@
 						<p></p>
 						<div class="col-12 submit">
 							<div class="">
-								<button type="reset" class="btn-borrar"><i class="fa fa-eraser pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>Borrar</button>
-								<button type="submit" value="Enviar mensaje" style="float: right;"class="btn-enviar"><i class="fa fa-paper-plane pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>Enviar</button>
+								<button type="reset" class="btn-borrar"><i class="fa fa-eraser pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>Clear</button>
+								<button type="submit" value="Enviar mensaje" style="float: right;"class="btn-enviar"><i class="fa fa-paper-plane pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>Send</button>
 							</div>
 						</div><p></p><p></p><p></p>
 					</form>            

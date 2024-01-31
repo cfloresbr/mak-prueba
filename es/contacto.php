@@ -109,11 +109,11 @@
 								Gracias por contactarnos, responderemos lo antes posible a sus consultas.<br><br>
 							</p>
 						</div>
-						<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
 							<!-- Datos de contacto -->
 							<p><i class="fa fa-map-marker pre" style="margin-right: 0.5rem; color: #4C0D06;" aria-hidden="true"></i>Huérfanos 835, oficina 1703, edificio Opera, Santiago</p>
 						</div>
-						<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12" style="margin-bottom: 20px;">
+						<div class="col-lg-2 col-md-2 col-sm-12 col-xs-12" style="margin-bottom: 20px;">
 							<!-- Correo con link de contacto-->
 							<a class="link" href="mailto:%20mak@mak.cl" style="font-size: 1.125rem!important;"><i class="fa fa-envelope pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>mak@mak.cl</a>
 						</div>
