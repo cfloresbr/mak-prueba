@@ -13,7 +13,7 @@ $mail = new PHPMailer(true);                              // Passing `true` enab
 session_start();
 
 if (!isset($_POST['token']) || $_POST['token'] !== $_SESSION['token']) {
-    $_SESSION['status'] = 'Formulario invalido';
+    $_SESSION['status'] = 'Invalid form';
     header("Location: http://190.97.170.216/mak-prueba/en/contacto.php");
     exit;
 }
