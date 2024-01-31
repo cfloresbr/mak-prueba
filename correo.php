@@ -14,7 +14,7 @@ session_start();
 
 if (!isset($_POST['token']) || $_POST['token'] !== $_SESSION['token']) {
     $_SESSION['status'] = 'Formulario invalido';
-    header("Location: http://www.mak.cl/es/contacto.php");
+    header("Location: http://190.97.170.216/mak-prueba/es/contacto.php");
     exit;
 }
 
@@ -22,7 +22,7 @@ if(!isset($_POST['name']) || trim($_POST['name']) === ""
 || !isset($_POST['mail']) || trim($_POST['mail']) === ""
 || !isset($_POST['comentario']) || trim($_POST['comentario']) === "") {
     $_SESSION['status'] = 'Debe completar nombre, correo y comentario para enviar un mensaje de contacto.';
-    header("Location: http://www.mak.cl/es/contacto.php");
+    header("Location: http://190.97.170.216/mak-prueba/es/contacto.php");
     exit;
 }
 
@@ -55,10 +55,10 @@ try {
     $mail->send();
     $_SESSION['status'] = 'Mensaje enviado. Muchas gracias';
     unset($_SESSION['token']);
-    header("Location: http://www.mak.cl/es/contacto.php");
+    header("Location: http://190.97.170.216/mak-prueba/es/contacto.php");
 } catch (Exception $e) {
     $_SESSION['status'] = 'Problemas para enviar el mensaje. Intentelo más tarde';
-    header("Location: http://www.mak.cl/es/contacto.php");
+    header("Location: http://190.97.170.216/mak-prueba/es/contacto.php");
     //echo 'Mailer Error: ' . $mail->ErrorInfo;
 }
 ?>
