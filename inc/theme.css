@@ -313,6 +313,8 @@ nav {
 	background-color: white!important;
 	border: 1px solid #4C0D06!important;
 	color: #4C0D06!important;
+	text-align: center!important;
+	border: none!important;
 }
 
 .sin-underline:hover{

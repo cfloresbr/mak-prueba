@@ -121,12 +121,24 @@
 	            </div>       
             </div>
         </div>
-
+		
 		<div class="greyArea" style="padding-bottom:0px!important">
 			<div id="contact">
 				<div class="container">
+				<?php if (isset($_SESSION['status']) && !empty($_SESSION['status'])) { ?>
+					<div class="row">
+						<div class="span12">
+							<div class="alert x-50">
+								
+								<strong><?php echo $_SESSION['status'];?></strong></h4>
+							</div>
+						</div>
+					</div>
+				<?php
+					unset($_SESSION['status']);
+					} ?>
 					<h2>Formulario de contacto</h2>
-
+					
 					<form action="./../correo.php" method="post" onsubmit="return verificarFormulario();">
 						<div class="form">
 							<div class="row">

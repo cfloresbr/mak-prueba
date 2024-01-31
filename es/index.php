@@ -109,7 +109,7 @@
 								<div class="row">
 									<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
 										<p>
-											El ejercicio del Estudio se centra en el área de litigación y asesorías, las que abarcan a personas naturales y jurídicas, de derecho público y privado. El equipo está altamente capacitado en distintos campos de la litigación, desde la penal con especialización en el Nuevo Proceso Penal; civil, abarcando todo tipo de juicios civiles, como indemnizatorios y responsabilidad contractual y extracontractual; comercial, generando la negociación y redacción de contratos de diversas compañías clientes del Estudio, como asimismo obteniendo el cumplimiento judicial de contratos y resarcimientos.
+											El ejercicio del Estudio se centra en el área de litigación y asesorías, las que abarcan a personas naturales y jurídicas, de derecho público y privado. El equipo está altamente capacitado en distintos campos de la litigación, desde lo penal con especialización en el Nuevo Proceso Penal; civil, abarcando todo tipo de juicios civiles, como indemnizatorios y responsabilidad contractual y extracontractual; comercial, generando la negociación y redacción de contratos de diversas compañías clientes del Estudio, como asimismo obteniendo el cumplimiento judicial de contratos y resarcimientos.
 										</p>
 
 										<p>

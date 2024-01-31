@@ -125,9 +125,21 @@
 		<div class="greyArea" style="padding-bottom:0px!important">
 			<div id="contact">
 				<div class="container">
+					<?php if (isset($_SESSION['status']) && !empty($_SESSION['status'])) { ?>
+						<div class="row">
+							<div class="span12">
+								<div class="alert x-50">
+									
+									<strong><?php echo $_SESSION['status'];?></strong></h4>
+								</div>
+							</div>
+						</div>
+					<?php
+					unset($_SESSION['status']);
+					} ?>
 					<h2>Contact form</h2>
 
-					<form action="./../correo.php" method="post" onsubmit="return verificarFormulario();">
+					<form action="./../correo2.php" method="post" onsubmit="return verificarFormulario();">
 						<div class="form">
 							<div class="row">
 								<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
