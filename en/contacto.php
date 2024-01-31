@@ -127,7 +127,7 @@
 				<div class="container">
 					<?php if (isset($_SESSION['status']) && !empty($_SESSION['status'])) { ?>
 						<div class="row">
-							<div class="span12">
+							<div class="text-center">
 								<div class="alert x-50">
 									
 									<strong><?php echo $_SESSION['status'];?></strong></h4>
