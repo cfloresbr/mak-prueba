@@ -130,7 +130,7 @@
 						<div class="text-center">
 							<div class="alert x-50">
 								
-								<strong><?php echo $_SESSION['status'];?></strong>
+								<strong style="color:#4C0D06!important"><?php echo $_SESSION['status'];?></strong>
 							</div>
 						</div>
 					</div>
