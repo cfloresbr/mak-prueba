@@ -64,7 +64,7 @@
 						<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 						
 							<!-- Opciones del menú -->
-							<div class="menu2 row collapse float-end"  id="collapseExample">
+							<div class="menu2 row collapse navbar-collapse float-end"  id="collapseExample">
 								<ul class="nav float-end opciones-menu bottom-0">
 									<li class="item-menu">
 										<a href="index.php" class="nav-item nav-link pruebaDrupal is-active" data-drupal-link-system-path="&lt;front&gt;">Inicio</a>
