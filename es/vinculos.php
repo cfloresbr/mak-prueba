@@ -47,7 +47,7 @@
 							<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 
 								<!-- Botón mobile o responsive -->
-								<button class="navbar-toggler" type="button">
+								<button class="navbar-toggler" type="button" data-bs-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
 									<div class="navbar-toggler-icon" style="margin-top: 20px;">
 										<i class="fas fa-bars" style="color:#B79E9C; font-size:2rem;"></i>
 									</div>
