@@ -45,7 +45,7 @@
 							<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 
 								<!-- Botón mobile o responsive -->
-								<button class="navbar-toggler" type="button">
+								<button class="navbar-toggler" type="button" data-bs-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
 									<div class="navbar-toggler-icon" style="margin-top: 20px;">
 										<i class="fas fa-bars" style="color:#B79E9C; font-size:2rem;"></i>
 									</div>
@@ -62,7 +62,7 @@
 						<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 						
 							<!-- Opciones del menú -->
-							<div class="menu2 row collapse navbar-collapse float-end" id="navDesktop">
+							<div class="menu2 row collapse float-end"  id="collapseExample">
 								<ul class="nav float-end opciones-menu bottom-0">
 									<li class="item-menu">
 										<a href="index.php" class="nav-item nav-link pruebaDrupal is-active" data-drupal-link-system-path="&lt;front&gt;">Inicio</a>
