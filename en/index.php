@@ -15,7 +15,7 @@
 		<link href="../inc/bootstrap.min.css" rel="stylesheet">
 		<link href="../inc/theme.css" rel="stylesheet" type="text/css">
 		<link href="../inc/index.css" rel="stylesheet" type="text/css" media="screen">
-		<link href="../inc/css.txt" rel="stylesheet" type="text/css">
+		<link href="../inc/css" rel="stylesheet" type="text/css">
 		<link href="../inc/animate.css" rel="stylesheet" type="text/css" media="screen, projection">
 		<link href="../inc/portfolio.css" rel="stylesheet" type="text/css" media="screen">
 		<link href="../inc/contact.css" type="text/css" rel="stylesheet" media="screen">

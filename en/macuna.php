@@ -12,12 +12,13 @@
 		<!-- Styles -->
 		<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700%7CJunge' rel='stylesheet' type='text/css'>
 		<link href="../inc/bootstrap.css" rel="stylesheet">
+		<link href="../inc/bootstrap.min.css" rel="stylesheet">
 		<link href="../inc/theme.css" rel="stylesheet" type="text/css">
 		<link href="../inc/index.css" rel="stylesheet" type="text/css" media="screen">
-		<link href="../inc/css.txt" rel="stylesheet" type="text/css">
+		<link href="../inc/css" rel="stylesheet" type="text/css">
 		<link href="../inc/animate.css" rel="stylesheet" type="text/css" media="screen, projection">
-        <link href="../inc/portfolio.css" rel="stylesheet" type="text/css" media="screen">
-        <link href="../inc/contact.css" type="text/css" rel="stylesheet" media="screen">
+		<link href="../inc/portfolio.css" rel="stylesheet" type="text/css" media="screen">
+		<link href="../inc/contact.css" type="text/css" rel="stylesheet" media="screen">
 
 
 		<script src="https://use.fontawesome.com/releases/v5.13.1/js/all.js" defer crossorigin="anonymous"></script>
@@ -114,7 +115,7 @@
                     <p>
                         Mr. Acuña is an active glider pilot and sea captain, having been chairman of the drafting committee of the Aeronautical Code reform, and founder and head of the law firm since 1977, directing full-time to date.
                     </p>
-					<a href="cacuna.php"><button type="button" class="btn btn-anterior "><i class="fa fa-arrow-left pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>Anterior</button></a>
+					<a href="cacuna.php"><button type="button" class="btn btn-anterior "><i class="fa fa-arrow-left pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>Previous</button></a>
 					<a href="gacuna.php"><button type="button" class="btn btn-siguiente  float-end">Next<i class="fa fa-arrow-right pre" style="margin-left: 0.5rem;" aria-hidden="true"></i></button></a>
 
 				</div>
