@@ -123,7 +123,7 @@
 										</p>
 
 										<p>
-										El Estudio ha llevado con éxito por casi 50 años variados casos de las más diversas ramas del Derecho, hasta las más altas instancias y Tribunales de la República.
+										El Estudio ha llevado con éxito por casi 50 años variados casos de las más diversas ramas del Derecho, hasta las más altas instancias y Tribunales de la República. (<a href="es/noticias.php">Ver noticias</a>)
 										</p>
 
 										<p>
