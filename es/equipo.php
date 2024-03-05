@@ -239,7 +239,7 @@
 								Administrativa ejecutiva del estudio desde el año 1985, a cargo de la administración general del mismo, secretaría gerencial, sus archivos y manejo económico.
 							</small><p></p>
 							<a class="link-vermas" href="adiez.php">Ver más</a>
-						</div>
+						</div><br><br>
 
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="margin-bottom: 30px;">
 							<a href="forostica.php">
