@@ -110,14 +110,10 @@
                     <h3>
 						<!-- Presentación -->
                         <p>
-                            The law firm’s area of specialty is litigation and counseling which includes natural and legal persons, public and private law. The team is highly trained in various fields of litigation, from criminal specialization in the New Legal Process, civil, covering all types of civil litigations, including compensations, responsibility contracts, commercial, and managing  the negotiation and drafting of contracts of various companies, as well as getting the judicial enforcement of contracts and compensation.
-                        </p>
-
-                        <p>
-                            The firm has successfully led various cases in the most diverse areas of law, to the highest authorities and courts of Chile, for both domestic and foreign customers.
+							Our Firm, during these almost 50 years, has advised its varied range of clients in the most diverse areas of Law. Given the complexity and problems of the issues that have been dealt with, there is constant specialization of the team members. The relationships with our clients are based on the trust that has been generated between both parties for a long time.
                         </p>
                         <p>
-                            We also have experience in arbitration, commercial, and corporate matters.
+							Practice areas focus on the following:
                         </p><br><br>
                     </h3>
                 </div>
@@ -146,35 +142,35 @@
                                 <img style="float: left;margin-right: 30px;margin-bottom: 20px" src="../img/comercial2.png">
                                 <h3>Civil Matters</h3><hr style="color: grey;">
                                 <p>
-                                    Personal possessions, inheritance and estate planning, drafting of all types of contracts such as real estate sales, promises, mutual funds, etc. We also represent the client as plaintiff or defendant in court.
+									Effective possessions, inheritances and estate planning; drafting contracts of all kinds such as sale and purchase of real estate, promises, mutual agreements, etc.; in addition to representing the client as plaintiff or defendant in ordinary, summary, and executive trials, among other matters.
                                 </p>
                             </div>
                             <div class="carousel__elemento" id="slide2">
                                 <img style="float: left;margin-right: 30px;margin-bottom: 20px;" src="../img/asesoria2-1.png">
                                 <h3>Criminal Matters</h3><hr style="color: grey;">
                                 <p>
-                                    Representation of clients as plaintiffs as well as defendants constituting the defense and / or reported; proceedings before courts of warranty, open-hearing criminal courts, prosecutors and criminal courts under the old procedure.
+									Representation of clients as plaintiffs, as well as defending defendants; processing before the Guarantee Courts, Oral Criminal Courts, Public Ministry, among other organizations.
                                 </p>
                             </div>
                             <div class="carousel__elemento" id="slide3">
                                 <img style="float: left;margin-right: 30px;margin-bottom: 20px;" src="../img/litigio2.png">
                                 <h3>Commercial Matter</h3><hr style="color: grey;">
                                 <p>
-                                    Representation of clients seeking bankruptcy and failed defense, incorporation of companies such as corporations, limited liability individual limited liability companies, joint stock companies, etc., drafting of commercial contracts such as mandate, commission, current account loan, exchange, etc.
+                                    Representation of clients seeking bankruptcy and failed defense, incorporation of companies such as corporations, limited liability individual limited liability companies, joint stock companies, etc., drafting of commercial contracts such as mandate, commission, current account loan, exchange, etc. Asset reorganization, liquidation and resumption procedure.
                                 </p>
                             </div>
                             <div class="carousel__elemento" id="slide4">
                                 <img style="float: left;margin-right: 30px;margin-bottom: 20px;" src="../img/intelectual2.png">
                                 <h3>Administrative Matter</h3><hr style="color: grey;">
                                 <p>
-                                    Management and processing before the Commission for the Financial Market, General Comptroller's Office and Ministries.
+									Management and processing of various matters before bodies of the State Administration, such as the Commission for the Financial Market, General Treasury of the Republic, Internal Tax Services, Council for Transparency, among others and Municipalities.
                                 </p>
                             </div>
                             <div class="carousel__elemento" id="slide5">
                                 <img  style="float: left;margin-right: 30px;margin-bottom: 20px;" src="../img/asesoria3-1.png">
                                 <h3>Other areas</h3><hr style="color: grey;">
                                 <p>
-                                    Resource protection, consumer advocacy, proceedings before local police courts, intellectual property, and aviation law. The law firm also has external partners for specific areas as well as prestigious informants in law.
+									Protection resources, defense of consumer rights, processing before local police courts, intellectual and industrial property, aeronautical law, among others. Likewise, the Firm has external collaborators for certain subjects as well as prestigious informants in law.
                                 </p>
                             </div>
                         </div>

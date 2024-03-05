@@ -134,7 +134,7 @@
 							<a href="cacuna.php"><h2>Carlos Acuña Rivera</h2></a>
 							<hr>
 							<small>
-								Abogado jefe y Socio del Estudio Jurídico Manuel Acuña Kairath y Cía Ltda.
+								Enseñanza escolar en el Santiago College y Abogado de la Universidad del Desarrollo, con un post título en “Derecho Procesal Penal” y otro en “Derecho Penal Sustantivo”, ambos en la Universidad Católica de Chile.
 							</small><p></p>
 							<a class="link-vermas" href="cacuna.php">Ver más</a>
 						</div>
@@ -146,7 +146,7 @@
 							<a href="macuna.php"><h2>Manuel Acuña Kairath</h2></a>
 							<hr>
 							<small>
-								Abogado, egresado de la Facultad de Derecho de la Pontificia Universidad Católica de Chile.
+								Abogado, egresado de la Facultad de Derecho de la Pontificia Universidad Católica de Chile el año 1966.
 							</small><p></p>
 							<a class="link-vermas" href="macuna.php">Ver más</a>
 						</div>
@@ -158,23 +158,10 @@
 							<a href="gacuna.php"><h2>Gerardo Acuña Rivera</h2></a>
 							<hr>
 							<small>
-								Ingeniero Comercial de la Universidad de Chile y Socio del Estudio jurídico Manuel Acuña Kairath y Cía Ltda. 
+								Socio del Estudio jurídico Manuel Acuña Kairath y Cía Ltda. Ingeniero Comercial de la Universidad de Chile, postgrado en Administración en el IAE Business School (Buenos Aires, Argentina).
 							</small><p></p>
 							<a class="link-vermas" href="gacuna.php">Ver más</a>
 						</div>
-						<!--
-						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="margin-bottom: 30px;">
-							<a href="">
-								<img width="100%" src="../img/silueta-m.png">
-							</a><br><br>
-							<a href=""><h2>Claudia Acosta</h2></a>
-							<hr>
-							<small>
-								Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-							</small><p></p>
-							<a class="link-vermas" href="">Ver más</a>
-						</div>
-						-->
 						<br><br>
 					</div>
 				</div>
@@ -196,7 +183,7 @@
 							<a href="fuentes.php"><h2>Cristián Fuentes Uribe</h2></a>
 							<hr>
 							<small>
-								Abogado licenciado de la Universidad Alberto Hurtado con mención en Derecho Regulatorio.
+								Abogado licenciado de la Universidad Alberto Hurtado con mención en Derecho Regulatorio, con distinción Cum Laude en el año 2013.
 							</small><p></p>
 							<a class="link-vermas" href="fuentes.php">Ver más</a>
 						</div>
@@ -236,7 +223,7 @@
 							<a href="adiez.php"><h2>Alejandra Díez González</h2></a>
 							<hr>
 							<small>
-								Administrativa ejecutiva del estudio desde el año 1985, a cargo de la administración general del mismo, secretaría gerencial, sus archivos y manejo económico.
+								Administrativa ejecutiva del estudio desde el año 1985, a cargo de la administración general del mismo, secretaría gerencial, sus archivos y manejo económico. 
 							</small><p></p>
 							<a class="link-vermas" href="adiez.php">Ver más</a>
 						</div>
@@ -248,7 +235,7 @@
 							<a href="forostica.php"><h2>Fernando Oróstica García</h2></a>
 							<hr>
 							<small>
-								Administrativo de confianza del estudio desde el año 1983, a cargo de las comunicaciones con los clientes y trámites.
+								Administrativo del Estudio desde el año 1983, a cargo de las comunicaciones con los clientes y trámites.
 							</small><p></p>
 							<a class="link-vermas" href="forostica.php">Ver más</a>
 						</div>
@@ -260,7 +247,7 @@
 							<a href="mmartinez.php"><h2>Macarena Martínez Aravena</h2></a>
 							<hr>
 							<small>
-								Administrativa informática del estudio desde el año 2010 a cargo de las comunicaciones varias, recepción, apoyo informático y  secretaría.
+								Administrativa informática del estudio desde el año 2010 a cargo de las comunicaciones, recepción, apoyo informático y secretaría.
 							</small><p></p>
 							<a class="link-vermas" href="mmartinez.php">Ver más</a>
 						</div>

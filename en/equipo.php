@@ -141,7 +141,7 @@
 							<a href="cacuna.php"><h2>Carlos Acuña Rivera</h2></a>
 							<hr>
 							<small>
-								Chief Lawyer and Partner of the Manuel Acuña Kairath y Cía Ltda Law Firm.
+								School teaching at Santiago College and Lawyer at the Universidad del Desarrollo, with a postgraduate degree in “Criminal Procedural Law” and another in “Substantive Criminal Law”, both at the Catholic University of Chile.
 							</small><p></p>
 							<a class="link-vermas" href="cacuna.php">See more</a>
 						</div>
@@ -153,7 +153,7 @@
 							<a href="macuna.php"><h2>Manuel Acuña Kairath</h2></a>
 							<hr>
 							<small>
-								Lawyer, received law degree from Pontificia Universidad Católica de Chile.
+								Lawyer, graduated from the Faculty of Law of the Pontificia Universidad Católica de Chile in 1966.
 							</small><p></p>
 							<a class="link-vermas" href="macuna.php">See more</a>
 						</div>
@@ -165,24 +165,12 @@
 							<a href="gacuna.php"><h2>Gerardo Acuña Rivera</h2></a>
 							<hr>
 							<small>
-								Commercial Engineer from the University of Chile and Partner of the Manuel Acuña Kairath y Cía Ltda Law Firm.
+								Partner of the Law Firm Manuel Acuña Kairath y Cía Ltda. Commercial Engineer from the University of Chile, postgraduate degree in Administration from the IAE Business School (Buenos Aires, Argentina).
 							</small><p></p>
 							<a class="link-vermas" href="gacuna.php">See more</a>
 						</div>
 						<br><br>
-						<!--
-						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="margin-bottom: 30px;">
-							<a href="">
-								<img width="100%" src="../img/silueta-m.png">
-							</a><br><br>
-							<a href=""><h2>Claudia Acosta</h2></a>
-							<hr>
-							<small>
-								Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-							</small><p></p>
-							<a class="link-vermas" href="">See more</a>
-						</div>
-						-->
+						
 					</div>
 				</div>
 			</div>
@@ -202,7 +190,7 @@
 							<a href="fuentes.php"><h2>Cristián Fuentes Uribe</h2></a>
 							<hr>
 							<small>
-								Lawyer, graduated from the Faculty of Law at the Alberto Hurtado University.
+								Lawyer graduated from the Alberto Hurtado University with a mention in Regulatory Law, with Cum Laude distinction in 2013.
 							</small><p></p>
 							<a class="link-vermas" href="fuentes.php">See more</a>
 						</div>
@@ -240,7 +228,7 @@
 							<a href="adiez.php"><h2>Alejandra Díez González</h2></a>
 							<hr>
 							<small>
-								Administrative executive of the study since 1985, in charge of the general administration of the same, managerial secretariat, its archives and economic management.
+								Executive administrative officer of the studio since 1985, in charge of its general administration, management secretariat, files and financial management.
 							</small><p></p>
 							<a class="link-vermas" href="adiez.php">See more</a>
 						</div>
@@ -252,7 +240,7 @@
 							<a href="forostica.php"><h2>Fernando Oróstica García</h2></a>
 							<hr>
 							<small>
-								Administrative trust of the study since 1983, in charge of communications with customers and procedures.
+								Administrative of the Studio since 1983, in charge of communications with clients and procedures.
 							</small><p></p>
 							<a class="link-vermas" href="forostica.php">See more</a>
 						</div>
@@ -264,7 +252,7 @@
 							<a href="mmartinez.php"><h2>Macarena Martínez Aravena</h2></a>
 							<hr>
 							<small>
-								Administrative computer of the study since 2010 in charge of various communications, reception, computer support, secretariat.
+								IT administrative officer of the studio since 2010 in charge of communications, reception, IT support and secretariat.
 							</small><p></p>
 							<a class="link-vermas" href="mmartinez.php">See more</a>
 						</div>

@@ -110,14 +110,11 @@
                     <h3>
 						<!-- Presentación -->
                         <p>
-                            El ejercicio del Estudio se centra en el área de litigación y asesorías, las que abarcan a personas naturales y jurídicas, de derecho público y privado. El equipo está altamente capacitado en distintos campos de la litigación, desde lo penal con especialización en el Nuevo Proceso Penal; civil, abarcando todo tipo de juicios civiles, como indemnizatorios y responsabilidad contractual y extracontractual; comercial, generando la negociación y redacción de contratos de diversas compañías clientes del Estudio, como asimismo obteniendo el cumplimiento judicial de contratos y resarcimientos.
+							Nuestro Estudio, durante estos casi 50 años, ha asesorado a su variada gama de clientes en las más diversas áreas del Derecho. Dada la complejidad y problemática de los asuntos que ha conocido, existe una constante especialización de los miembros del equipo. Las relaciones con nuestros clientes se fundan en la confianza que se ha generado entre ambas partes desde antigua data.
                         </p>
                         <p>
-                            El Estudio ha llevado con éxito variados casos de las más diversas ramas del derecho, hasta las más altas instancias y tribunales de la República; tanto para clientes nacionales como extranjeros.
-                        </p>
-                        <p>
-                            También poseemos experiencia en arbitrajes y en materias comerciales y societarias.
-                        </p><br><br>
+							Las áreas de práctica se enfocan en las siguientes:
+                        </p><br>
                     </h3>
                 </div>
             </div>
@@ -146,35 +143,35 @@
                                 <img style="float: left;margin-right: 30px;margin-bottom: 20px" src="../img/comercial2.png">
                                 <h2>Materia Civil</h2><hr style="color: grey;">
                                 <p>
-                                    Posesiones efectivas, herencias y planificación hereditaria; redacción de contratos de toda índole tales como compraventa de bienes raíces, promesas, mutuos, etc.; además de representar al cliente como demandante o demandado en juicios ordinarios, sumarios, ejecutivos, etc.
+                                    Posesiones efectivas, herencias y planificación hereditaria; redacción de contratos de toda índole tales como compraventa de bienes raíces, promesas, mutuos, etc.; además de representar al cliente como demandante o demandado en juicios ordinarios, sumarios, ejecutivos, entre otros asuntos.
                                 </p>
                             </div>
                             <div class="carousel__elemento" id="slide2">
                                 <img style="float: left;margin-right: 30px;margin-bottom: 20px;" src="../img/asesoria2-1.png">
                                 <h2>Materia Penal</h2><hr style="color: grey;">
                                 <p>
-                                    Representación de clientes como querellantes, así como también constituyendo la defensa de querellados y/o denunciados; tramitación ante tribunales de garantía, tribunales orales en lo penal, fiscalías y tribunales del crimen bajo el procedimiento antiguo.
+									Representación de clientes como querellantes, así como también constituyendo la defensa de imputados; tramitación ante los Tribunales de Garantía, Tribunales Orales en lo Penal, Ministerio Público, entre otros organismos.
                                 </p>
                             </div>
                             <div class="carousel__elemento" id="slide3">
                                 <img style="float: left;margin-right: 30px;margin-bottom: 20px;" src="../img/litigio2.png">
                                 <h2>Materia Comercial</h2><hr style="color: grey;">
                                 <p>
-                                    Representación de clientes solicitantes de quiebra, así como defensa de fallidos, constitución de sociedades tales como anónimas, de responsabilidad limitada, empresas individuales de responsabilidad limitada, sociedades por acciones, etc.; redacción de contratos mercantiles tales como mandato, comisión, cuenta corriente, préstamo, cambio, etc.                                            
+                                    Representación de clientes solicitantes de quiebra, así como defensa de fallidos, constitución de sociedades tales como anónimas, de responsabilidad limitada, empresas individuales de responsabilidad limitada, sociedades por acciones, etc.; redacción de contratos mercantiles tales como mandato, comisión, cuenta corriente, préstamo, cambio, etc. Procedimiento de reorganización patrimonial, liquidación y reemprendimiento.                                          
                                 </p>
                             </div>
                             <div class="carousel__elemento" id="slide4">
                                 <img style="float: left;margin-right: 30px;margin-bottom: 20px;" src="../img/intelectual2.png">
                                 <h2>Materia Administrativa</h2><hr style="color: grey;">
                                 <p>
-                                    Gestión y tramitación ante la Comisión para el Mercado Financiero, Contraloría General de la República y Ministerios.
+									Gestión y tramitación de diversos asuntos ante órganos de la Administración del Estado, tales como la Comisión para el Mercado Financiero, Tesorería General de la República, Servicios de Impuestos Internos, Consejo para la Transparencia, entre otros y Municipalidades.
                                 </p>
                             </div>
                             <div class="carousel__elemento" id="slide5">
                                 <img  style="float: left;margin-right: 30px;margin-bottom: 20px;" src="../img/asesoria3-1.png">
                                 <h2>Otras áreas</h2><hr style="color: grey;">
                                 <p>
-                                    Recursos de protección, defensa de derechos del consumidor, tramitación ante juzgados de policía local, propiedad intelectual e industrial, derecho aeronáutico. Asimismo el Estudio cuenta con colaboradores externos para determinadas materias así como con prestigiosos informantes en derecho.
+                                    Recursos de protección, defensa de derechos del consumidor, tramitación ante juzgados de policía local, propiedad intelectual e industrial, derecho aeronáutico, entre otros. Asimismo el Estudio cuenta con colaboradores externos para determinadas materias así como con prestigiosos informantes en derecho.
                                 </p>
                             </div>
                         </div>
