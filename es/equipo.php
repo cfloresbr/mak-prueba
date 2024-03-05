@@ -230,14 +230,13 @@
 								</summary>
 									<small>
 										Egresada de Derecho de la Universidad de Chile.
-									</small>
+									</small><br>
 									<small>
 										Administrativa ejecutiva del estudio desde el año 1985, a cargo de la administración general del mismo, secretaría gerencial, sus archivos y manejo económico. 
 									</small>
 								
 							</details>
 							<p></p>
-							<a class="link-vermas" href="adiez.php">Ver más</a>
 						</div>
 
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="margin-bottom: 30px;">
@@ -246,10 +245,21 @@
 							</a><br><br>
 							<a href="forostica.php"><h2>Fernando Oróstica García</h2></a>
 							<hr>
-							<small>
-								Administrativo del Estudio desde el año 1983, a cargo de las comunicaciones con los clientes y trámites.
-							</small><p></p>
-							<a class="link-vermas" href="forostica.php">Ver más</a>
+							<details>
+								<summary>
+									<small>
+										Jefe de Operaciones y Logística. Agente Comercial, título profesional otorgado por el Instituto Superior de Comercio de Talca.
+									</small>
+								</summary>
+									<small>
+										Secretario Ejecutivo.
+									</small><br>
+									<small>
+										Administrativo del Estudio desde el año 1983, a cargo de las comunicaciones con los clientes y trámites. 
+									</small>
+								
+							</details>
+							<p></p>
 						</div>
 		
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
@@ -258,10 +268,18 @@
 							</a><br><br>
 							<a href="mmartinez.php"><h2>Macarena Martínez Aravena</h2></a>
 							<hr>
-							<small>
-								Administrativa informática del estudio desde el año 2010 a cargo de las comunicaciones, recepción, apoyo informático y secretaría.
-							</small><p></p>
-							<a class="link-vermas" href="mmartinez.php">Ver más</a>
+							<details>
+								<summary>
+									<small>
+										Secretaria Encargada de Comunicaciones y Servicios Tecnológicos. Licenciada digital ICDL, Fundación Chile.
+									</small><br>
+								</summary>
+									<small>
+										Administrativa informática del estudio desde el año 2010 a cargo de las comunicaciones, recepción, apoyo informático y secretaría.
+									</small>
+								
+							</details>
+							<p></p>
 						</div>
 
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
@@ -273,7 +291,6 @@
 							<small>
 								Administrativa Encargada de Recepción del Estudio desde el año 2021, a cargo de la comunicación y apoyo con las distintas áreas.
 							</small><p></p>
-							<a class="link-vermas" href="cacosta.php">Ver más</a>
 						</div>
 					</div>
 				</div>
