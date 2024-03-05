@@ -72,9 +72,9 @@
 									<li class="item-menu">
 										<a href="asesoria.php" class="nav-item nav-link pruebaDrupal" data-drupal-link-system-path="node/156">Áreas de práctica</a>
 									</li>
-									<li class="item-menu">
+									<!--<li class="item-menu">
 										<a href="vinculos.php" class="nav-item nav-link pruebaDrupal" data-drupal-link-system-path="node/168">Vínculos</a>
-									</li>
+									</li>-->
 									<li class="item-menu">
 										<a href="contacto.php" class="nav-item nav-link pruebaDrupal" data-drupal-link-system-path="noticias">Contacto</a>
 									</li>-->

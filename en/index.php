@@ -68,9 +68,9 @@
 									<li class="item-menu">
 										<a href="asesoria.php" class="nav-item nav-link pruebaDrupal" data-drupal-link-system-path="node/156">Specializations</a>
 									</li>
-									<li class="item-menu">
+									<!--<li class="item-menu">
 										<a href="vinculos.php" class="nav-item nav-link pruebaDrupal" data-drupal-link-system-path="node/168">Links</a>
-									</li>
+									</li>-->
 									<li class="item-menu">
 										<a href="contacto.php" class="nav-item nav-link pruebaDrupal" data-drupal-link-system-path="noticias">Contact</a>
 									</li>
@@ -154,7 +154,7 @@
 			</div>
 		</div>
 
-		<!-- Vínculos -->
+		<!-- Vínculos 
 		<div class="whiteArea slide-inicio">
 			<div class="container">
 				<h1>Links</h1><p></p>
@@ -162,40 +162,27 @@
 			<div class="container">
 				<div class="carousel">
 					<div class="carousel__contenedor">
-						<!-- Botonera de áreas -->
+						<-- Botonera de áreas ->
 						<button aria-label="Anterior" class="carousel__anterior" style="top: calc(50% - 35px)">
 							<i class="fas fa-chevron-left"></i>
 						</button>
-						<!-- Listado de sliders -->
+						<-- Listado de sliders ->
 						<div class="carousel__lista" style="padding-top: 1rem!important;">
 							<div class="carousel__elemento" style="margin-right: 20px">
 								<img style="margin-bottom: 20px;max-height: 260px;" src="../img/silueta-m2.png">
 								<h3>Engineer Luciana Cruz</h3>
-								<!--<hr style="color: grey;">
-								<a class="link" href=""><i class="fa fa-link pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>Visit the website</a>-->
 							</div>
-							<!--<div class="carousel__elemento" style="margin-right: 20px">
-								<img style="margin-bottom: 20px;max-height: 260px; width: 100%;" src="../img/v-agua.png">
-								<h3>Lawyer Fernando Laso Rogers</h3><hr style="color: grey;">
-								<a class="link" href=""><i class="fa fa-link pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>Visit the website</a>
-							</div>-->
 							<div class="carousel__elemento" style="margin-right: 20px">
 								<img style="margin-bottom: 20px;max-height: 260px; width: 100%;" src="../img/v-auditoria2.png">
 								<h3>ACONSA Auditores Consultores Limitada</h3>
-								<!--<hr style="color: grey;">
-								<a class="link" href=""><i class="fa fa-link pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>Visit the website</a>-->
 							</div>
 							<div class="carousel__elemento" style="margin-right: 20px">
 								<img style="margin-bottom: 20px;max-height: 260px; width: 100%;" src="../img/intelectual2.png">
 								<h3>Engineering</h3>
-								<!--<hr style="color: grey;">
-								<a class="link" href=""><i class="fa fa-link pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>Visit the website</a>-->
 							</div>
 							<div class="carousel__elemento" style="margin-right: 20px">
 								<img  style="margin-bottom: 20px;max-height: 260px; width: 100%;" src="../img/asesoria3-1.png">
 								<h3>Engineering Civil and Industrial</h3>
-								<!--<hr style="color: grey;">
-								<a class="link" href=""><i class="fa fa-link pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>Visit the website</a>-->
 							</div>
 						</div>
 				
@@ -208,10 +195,10 @@
 		</div>
 		<div class="container">
 			<a href="vinculos.php"><button type="button" class="btn btn-principal w-100"><i class="fa fa-link pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>Know links</button></a>
-		</div>
+		</div>-->
 
 		<!-- Call to action -->
-		<div class="call-1" style="margin-top: 40px;">
+		<div class="call-1">
 			<div class="container" style="padding-top: 40px;">
 				<h1>Contact us</h1>
 				<p style="color:#303030; margin-top: 20px;">Send us your questions through the contact form.</p>
@@ -247,9 +234,9 @@
 									<li>
 										<a class="footer-link" href="asesoria.php">Specializations</a>
 									</li>
-									<li>
+									<!--<li>
 										<a class="footer-link" href="vinculos.php">Links</a>
-									</li>
+									</li>-->
 									<li>
 										<a class="footer-link" href="contacto.php">Contact</a>
 									</li>

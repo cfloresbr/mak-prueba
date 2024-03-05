@@ -217,7 +217,7 @@
 		</div>-->
 
 		<!-- Call to action -->
-		<div class="call-1" style="margin-top: 40px;">
+		<div class="call-1">
 			<div class="container" style="padding-top: 40px;">
 				<h1>Contáctanos</h1>
 				<p style="color:#303030; margin-top: 20px;">Enviános tus consultas a través del formulario de contacto.</p>

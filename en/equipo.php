@@ -73,9 +73,9 @@
 									<li class="item-menu">
 										<a href="asesoria.php" class="nav-item nav-link pruebaDrupal" data-drupal-link-system-path="node/156">Specializations</a>
 									</li>
-									<li class="item-menu">
+									<!--<li class="item-menu">
 										<a href="vinculos.php" class="nav-item nav-link pruebaDrupal" data-drupal-link-system-path="node/168">Links</a>
-									</li>
+									</li>-->
 									<li class="item-menu">
 										<a href="contacto.php" class="nav-item nav-link pruebaDrupal" data-drupal-link-system-path="noticias">Contact</a>
 									</li>
@@ -309,9 +309,9 @@
 									<li>
 										<a class="footer-link" href="asesoria.php">Specializations</a>
 									</li>
-									<li>
+									<!--<li>
 										<a class="footer-link" href="vinculos.php">Links</a>
-									</li>
+									</li>-->
 									<li>
 										<a class="footer-link" href="contacto.php">Contact</a>
 									</li>
