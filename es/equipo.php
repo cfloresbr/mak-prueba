@@ -182,10 +182,27 @@
 							</a><br><br>
 							<a href="fuentes.php"><h2>Cristián Fuentes Uribe</h2></a>
 							<hr>
-							<small>
-								Abogado licenciado de la Universidad Alberto Hurtado con mención en Derecho Regulatorio, con distinción Cum Laude en el año 2013.
-							</small><p></p>
-							<a class="link-vermas" href="fuentes.php">Ver más</a>
+							<details>
+								<summary>
+									<small>
+										Abogado licenciado de la Universidad Alberto Hurtado con mención en Derecho Regulatorio, con distinción Cum Laude en el año 2013.
+									</small><br>
+								</summary>
+									<small>
+										Realizó una pasantía en la Universidad de Loyola en Chicago, EEUU, en el Instituto de Antitrust and Consumer Law. En su carrera profesional ha trabajado en tribunales (Tribunal Oral en lo Penal) y en el sector público (División Jurídica del Ministerio de Economía).
+									</small><br>
+									<small>
+										Tiene un diplomado en Derecho Administrativo de la Pontificia Universidad Católica de Chile.
+									</small><br>
+									<small>
+										Su ejercicio profesional se orienta principalmente en las áreas de litigación civil, penal, administrativa, y en asesoría en derecho corporativo y societario.
+									</small><br>
+									<small>
+										Idiomas: Español e inglés, además de japonés básico.
+									</small>
+								
+							</details>
+							<p></p>
 						</div>
 						
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
@@ -194,12 +211,25 @@
 							</a><br><br>
 							<a href="ccastillo.php"><h2>Claudia González Castillo</h2></a>
 							<hr>
-							<small>
-								Abogada Licenciada en Ciencias Jurídicas de la Universidad Alberto Hurtado.
-							</small><p></p>
-							<a class="link-vermas" href="ccastillo.php">Ver más</a>
+							<details>
+								<summary>
+									<small>
+										Abogada Licenciada en Ciencias Jurídicas de la Universidad Alberto Hurtado. Diplomado en Derecho Administrativo de la Pontificia Universidad Católica de Chile.
+									</small><br>
+								</summary>
+									<small>
+										Su práctica profesional la realizó en la Intendencia Metropolitana de Santiago y se desempeñó como alumna pasante en el Consejo para la Transparencia y la Dirección de Estudios de la Corte Suprema.
+									</small><br>
+									<small>
+										Su ejercicio profesional se orienta a la tramitación de causas penales, civiles, administrativas y comerciales.
+									</small><br>
+									<small>
+										Idiomas: Español e Inglés básico.
+									</small>
+								
+							</details>
+							<p></p>
 						</div>
-
 						
 						<br><br>
 					</div>
