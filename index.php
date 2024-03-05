@@ -68,7 +68,7 @@
 								<div class="rrss-idioma float-end" style="margin-top:14px!important;padding-bottom:;">
 									<!--<a class="redes-header"href="#"><i style="padding-top: 2px;" class="fa fa-whatsapp"></i></a>
 									<a class="redes-header"href="#"><i style="padding-top: 2px;" class="fa fa-linkedin-square"></i></a>-->
-									<a class="" href="en/index.php"><span style="padding: 0 10px; color:#B79E9C!important;" class="combobox">En</span></a>
+									<a class="" href="en/index.php"><span style="padding: 0 10px; color:#B79E9C!important;" class="combobox">English</span></a>
 								</div>
 							</div>
 							
@@ -123,7 +123,7 @@
 										</p>
 
 										<p>
-										El Estudio ha llevado con éxito por casi 50 años variados casos de las más diversas ramas del Derecho, hasta las más altas instancias y Tribunales de la República. (<a class="link-vermas" href="es/noticias.php">Ver noticias</a>)
+										El Estudio ha llevado con éxito por casi 50 años variados casos de las más diversas ramas del Derecho, hasta las más altas instancias y Tribunales de la República. <!--(<a class="link-vermas" href="es/noticias.php">Ver noticias</a>)-->
 										</p>
 
 										<p>
@@ -172,7 +172,7 @@
 			</div>
 		</div>
 
-		<!-- Vínculos -->
+		<!-- Vínculos 
 		<div class="whiteArea slide-inicio">
 			<div class="container">
 				<h1>Vínculos</h1>
@@ -180,12 +180,12 @@
 			<div class="container">
 				<div class="carousel">
 					<div class="carousel__contenedor">
-						<!-- Botonera de áreas -->
+						<-- Botonera de áreas ->
 						<button aria-label="Anterior" class="carousel__anterior" style="top: calc(50% - 35px)">
 							<i class="fas fa-chevron-left"></i>
 						</button>
 
-						<!-- Listado de sliders -->
+						<-- Listado de sliders ->
 						<div class="carousel__lista" style="padding-top: 1rem!important;">
 							<div class="carousel__elemento" style="margin-right: 20px">
 								<img style="margin-bottom: 20px;max-height: 260px;" src="img/silueta-m2.png">
@@ -197,15 +197,11 @@
 							</div>
 							<div class="carousel__elemento" style="margin-right: 20px">
 								<img style="margin-bottom: 20px;max-height: 260px; width: 100%;" src="img/intelectual2.png">
-								<h3>Ingeniería</h3>
-								<!--<hr style="color: grey;">
-								<a class="link" href=""><i class="fa fa-link pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>Visita el sitio web</a>-->
+								<h3>Ingeniería</h3>	
 							</div>
 							<div class="carousel__elemento" style="margin-right: 20px">
 								<img  style="margin-bottom: 20px;max-height: 260px; width: 100%;" src="img/asesoria3-1.png">
 								<h3>Ingeniería Civil e Industrial</h3>
-								<!--<hr style="color: grey;">
-								<a class="link" href=""><i class="fa fa-link pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>Visita el sitio web</a>-->
 							</div>
 						</div>
 				
@@ -218,7 +214,7 @@
 		</div>
 		<div class="container">
 			<a href="es/vinculos.php"><button type="button" class="btn btn-principal w-100"><i class="fa fa-link pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>Conocer vínculos</button></a>
-		</div>
+		</div>-->
 
 		<!-- Call to action -->
 		<div class="call-1" style="margin-top: 40px;">

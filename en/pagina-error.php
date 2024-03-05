@@ -53,7 +53,7 @@
 								<div class="rrss-idioma float-end" style="margin-top:14px!important;padding-bottom:;">
 									<!--<a class="redes-header"href="#"><i style="padding-top: 2px;" class="fa fa-whatsapp"></i></a>
 									<a class="redes-header"href="#"><i style="padding-top: 2px;" class="fa fa-linkedin-square"></i></a>-->
-									<a class="" href="../es/pagina-error.php"><span style="padding: 0 10px; color:#B79E9C!important;" class="combobox">Es</span></a>
+									<a class="" href="../es/pagina-error.php"><span style="padding: 0 10px; color:#B79E9C!important;" class="combobox">Español</span></a>
 								</div>
 							</div>
 							

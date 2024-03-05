@@ -58,7 +58,7 @@
 								<div class="rrss-idioma float-end" style="margin-top:14px!important;padding-bottom:;">
 									<!--<a class="redes-header"href="#"><i style="padding-top: 2px;" class="fa fa-whatsapp"></i></a>
 									<a class="redes-header"href="#"><i style="padding-top: 2px;" class="fa fa-linkedin-square"></i></a>-->
-									<a class="" href="../en/index.php"><span style="padding: 0 10px; color:#B79E9C!important;" class="combobox">En</span></a>
+									<a class="" href="../en/index.php"><span style="padding: 0 10px; color:#B79E9C!important;" class="combobox">English</span></a>
 								</div>
 							</div>
 							
@@ -108,23 +108,20 @@
 							<div class="col-12">
 								<div class="row">
 									<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
-										<p>
-											El ejercicio del Estudio se centra en el área de litigación y asesorías, las que abarcan a personas naturales y jurídicas, de derecho público y privado. El equipo está altamente capacitado en distintos campos de la litigación, desde lo penal con especialización en el Nuevo Proceso Penal; civil, abarcando todo tipo de juicios civiles, como indemnizatorios y responsabilidad contractual y extracontractual; comercial, generando la negociación y redacción de contratos de diversas compañías clientes del Estudio, como asimismo obteniendo el cumplimiento judicial de contratos y resarcimientos.
+									<p>
+										El ejercicio del Estudio se centra en la litigación y asesoría jurídica, las que abarcan a distintas personas, sociedades, organismos públicos, entre otros. El equipo está altamente capacitado en distintos campos del ejercicio profesional, desde lo penal; civil; abarcando todo tipo de juicios, como indemnizatorios y responsabilidad contractual y extracontractual; comercial, desde la negociación y la redacción de contratos de diversos clientes del Estudio, como asimismo obteniendo el cumplimiento judicial de contratos y resarcimientos.
 										</p>
 
 										<p>
-											El Estudio ha llevado con éxito variados casos de las más diversas ramas del derecho, hasta las más altas instancias y tribunales de la República; tanto para clientes nacionales como extranjeros.
+										El Estudio ha llevado con éxito por casi 50 años variados casos de las más diversas ramas del Derecho, hasta las más altas instancias y Tribunales de la República. <!--(<a class="link-vermas" href="es/noticias.php">Ver noticias</a>)-->
 										</p>
 
 										<p>
-											También poseemos experiencia en arbitrajes y en materias comerciales y societarias.
+										En los últimos años el socio fundador del Estudio Jurídico ha dejado de estar en la primera línea, delegando parte de esta responsabilidad en sus hijos, junto a quienes lo administra.
 										</p>
 
 										<p>
-											En los últimos años el socio fundador del Estudio Jurídico ha dejado de estar en la primera línea, delegando parte de esta responsabilidad en sus hijos, con quienes lo administra.
-										</p>
-										<p>
-											Gerardo Andrés Acuña es socio e ingeniero comercial y Carlos Arturo Acuña es socio y el abogado jefe del Estudio.
+										Gerardo Andrés Acuña es socio e ingeniero comercial y Carlos Arturo Acuña es socio y el abogado jefe del Estudio.
 										</p>
 									</div>
 									<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">

@@ -18,7 +18,7 @@
 		<link href="../inc/css" rel="stylesheet" type="text/css">
 		<link href="../inc/animate.css" rel="stylesheet" type="text/css" media="screen, projection">
 		<link href="../inc/portfolio.css" rel="stylesheet" type="text/css" media="screen">
-		<link href="../inc/contact.css" type="text/css" rel="stylesheet" media="screen">
+		<link href="../inc/contact.css" type="text/css" rel="stylesheet" media="screen">n
         <!-- Carrousel -->
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glider-js@1.7.8/glider.min.css">
 
@@ -57,7 +57,7 @@
 								<div class="rrss-idioma float-end" style="margin-top:14px!important;padding-bottom:;">
 									<!--<a class="redes-header"href="#"><i style="padding-top: 2px;" class="fa fa-whatsapp"></i></a>
 									<a class="redes-header"href="#"><i style="padding-top: 2px;" class="fa fa-linkedin-square"></i></a>-->
-									<a class="" href="../es/vinculos.php"><span style="padding: 0 10px; color:#B79E9C!important;" class="combobox">Es</span></a>
+									<a class="" href="../es/vinculos.php"><span style="padding: 0 10px; color:#B79E9C!important;" class="combobox">Español</span></a>
 								</div>
 							</div>
 							
