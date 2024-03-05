@@ -233,7 +233,7 @@
 						Administrative team
 					</h1><p></p>
 					<div class="row">
-						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" >
+						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="margin-bottom: 30px;">
 							<a href="adiez.php">
 								<img width="100%" src="../img/mak-4.png">
 							</a><br><br>
@@ -243,7 +243,7 @@
 								Administrative executive of the study since 1985, in charge of the general administration of the same, managerial secretariat, its archives and economic management.
 							</small><p></p>
 							<a class="link-vermas" href="adiez.php">See more</a>
-						</div><br><br>
+						</div>
 
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="margin-bottom: 30px;">
 							<a href="forostica.php">
