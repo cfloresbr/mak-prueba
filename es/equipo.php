@@ -133,10 +133,21 @@
 							</a><br><br>
 							<a href="cacuna.php"><h2>Carlos Acuña Rivera</h2></a>
 							<hr>
-							<small>
-								Enseñanza escolar en el Santiago College y Abogado de la Universidad del Desarrollo, con un post título en “Derecho Procesal Penal” y otro en “Derecho Penal Sustantivo”, ambos en la Universidad Católica de Chile.
-							</small><p></p>
-							<a class="link-vermas" href="cacuna.php">Ver más</a>
+							<details>
+								<summary>
+									<small>
+										Enseñanza escolar en el Santiago College y Abogado de la Universidad del Desarrollo, con un post título en “Derecho Procesal Penal” y otro en “Derecho Penal Sustantivo”, ambos en la Universidad Católica de Chile.
+									</small><br>
+								</summary>
+									<small>
+										Ha ejercido de manera continua la profesión en distintos ámbitos, tanto en Chile como en el extranjero. Actualmente es Abogado jefe y Socio del Estudio Jurídico Manuel Acuña Kairath y Cía Ltda.
+									</small><br>
+									<small>
+										Idiomas: Español e Inglés básico.
+									</small>
+								
+							</details>
+							<p></p>
 						</div>
 
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="margin-bottom: 30px;">
@@ -145,10 +156,20 @@
 							</a><br><br>
 							<a href="macuna.php"><h2>Manuel Acuña Kairath</h2></a>
 							<hr>
-							<small>
-								Abogado, egresado de la Facultad de Derecho de la Pontificia Universidad Católica de Chile el año 1966.
-							</small><p></p>
-							<a class="link-vermas" href="macuna.php">Ver más</a>
+							<details>
+								<summary>
+									<small>
+										Abogado, egresado de la Facultad de Derecho de la Pontificia Universidad Católica de Chile el año 1966. Ha ejercido principalmente en las áreas del derecho penal y litigación. Asimismo, se ha desempeñado como árbitro, habiendo asesorado no sólo a personas naturales y jurídicas, sino también al Estado de Chile.
+									</small><br>
+								</summary>
+									<small>
+										Es diplomado del Centro de Promoción Universitaria CPU en el año 2000 sobre la Reforma Procesal Penal, y diplomado en Reforma Procesal Penal por la Facultad de Derecho de la Pontificia Universidad Católica de Chile el año 2003.
+									</small><br>
+									<small>
+										Es piloto activo de planeador y capitán de alta mar, habiendo sido presidente de la comisión redactora de reforma al Código Aeronáutico, y fundador y jefe del Estudio desde el año 1977, dirigiéndolo con dedicación exclusiva hasta la fecha.
+									</small>
+							</details>
+							<p></p>
 						</div>
 						
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
@@ -157,10 +178,21 @@
 							</a><br><br>
 							<a href="gacuna.php"><h2>Gerardo Acuña Rivera</h2></a>
 							<hr>
-							<small>
-								Socio del Estudio jurídico Manuel Acuña Kairath y Cía Ltda. Ingeniero Comercial de la Universidad de Chile, postgrado en Administración en el IAE Business School (Buenos Aires, Argentina).
-							</small><p></p>
-							<a class="link-vermas" href="gacuna.php">Ver más</a>
+							<details>
+								<summary>
+									<small>
+										Socio del Estudio jurídico Manuel Acuña Kairath y Cía Ltda. Ingeniero Comercial de la Universidad de Chile, postgrado en Administración en el IAE Business School (Buenos Aires, Argentina), diplomado en Finanzas y en Recursos Humanos, ambos en la Universidad Católica de Chile.
+									</small><br>
+								</summary>
+									<small>
+										Se ha desempeñado en cargos ejecutivos y gerenciales por casi 30 años en empresas de primer nivel en los rubros financiero y de energía.
+									</small><br>
+									<small>
+									Idiomas: Español e inglés.
+									</small>
+								
+							</details>
+							<p></p>
 						</div>
 						<br><br>
 					</div>
