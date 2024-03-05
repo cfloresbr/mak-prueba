@@ -111,7 +111,7 @@
                     
 					<!-- Correo -->
 					<p>
-						<a class="link" href="mailto:%20mmartinez@mak.cl"><i class="fa fa-envelope pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>mmartinez@mak.cl</a>
+						<a class="link" href="mailto:%20mak@mak.cl"><i class="fa fa-envelope pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>mak@mak.cl</a>
 					</p><p><br></p>
 					<a href="mmartinez.php"><button type="button" class="btn btn-anterior "><i class="fa fa-arrow-left pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>Previous</button></a>
 					<a href="cacuna.php"><button type="button" class="btn btn-siguiente  float-end">Next<i class="fa fa-arrow-right pre" style="margin-left: 0.5rem;" aria-hidden="true"></i></button></a>

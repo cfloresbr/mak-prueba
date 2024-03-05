@@ -99,16 +99,13 @@
 								<div class="row">
 									<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
 										<p>
-											The practice of the Firm focuses on the area of litigation and consulting, which covers natural and legal persons, under public and private law. The team is highly trained in different fields of litigation, from criminal litigation with specialization in the New Criminal Procedure; civil, covering all types of civil lawsuits, such as compensation and contractual and extra-contractual liability; commercial, generating the negotiation and drafting of contracts for various client companies of the Firm, as well as obtaining judicial compliance with contracts and compensation.
+											The practice of the Firm focuses on litigation and legal advice, which covers different people, companies, public organizations, among others. The team is highly trained in different fields of professional practice, from criminal; civil; covering all types of lawsuits, such as compensation and contractual and extra-contractual liability; commercial, from the negotiation and drafting of contracts for various clients of the Firm, as well as obtaining judicial compliance with contracts and compensation.
 										</p>
 										<p>
-											The Firm has successfully handled various cases from the most diverse branches of law, up to the highest levels and courts of the Republic; for both national and foreign clients.
+											For almost 50 years, the Firm has successfully handled various cases from the most diverse branches of Law, up to the highest levels and Courts of the Republic. (link to news section).
 										</p>
 										<p>
-											We also have experience in arbitrations and commercial and corporate matters.
-										</p>
-										<p>
-											In recent years, the founding partner of the Law Firm has stopped being on the front line, delegating part of this responsibility to his children, with whom he manages it.
+											In recent years, the founding partner of the Law Firm has stopped being on the front line, delegating part of this responsibility to his children, along with those who manage it.
 										</p>
 										<p>
 											Gerardo Andrés Acuña is a partner and commercial engineer and Carlos Arturo Acuña is a partner and the chief lawyer of the Firm.

@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<title>Manuel Acuña Kairath - Abogados</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -28,7 +28,7 @@
 		<![endif]-->
 		<!-- <script type="text/javascript" src="../inc/load_v3.js"></script> -->
         <script type="text/javascript" src="../inc/source.js"></script>
-    </head>
+	</head>
 	<body class="pull_top" style="zoom: 1;">
 		<!-- Header 2 -->						
 		<header class="menu container-fluid-nav">
@@ -37,7 +37,7 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12" style="margin-top: 16px; text-align: left;">
-								<a class="brand" href="../en/index.php">
+								<a class="brand" href="../es/index.php">
 									<!-- Logo header -->
 									<img class="logo-header" src="../img/logo-mak.png">
 								</a>
@@ -54,7 +54,7 @@
 								<div class="rrss-idioma float-end" style="margin-top:14px!important;padding-bottom:;">
 									<!--<a class="redes-header"href="#"><i style="padding-top: 2px;" class="fa fa-whatsapp"></i></a>
 									<a class="redes-header"href="#"><i style="padding-top: 2px;" class="fa fa-linkedin-square"></i></a>-->
-									<a class="" href="../es/equipo.php"><span style="padding: 0 10px; color:#B79E9C!important;" class="combobox">Español</span></a>
+									<a class="" href="../en/equipo.php"><span style="padding: 0 10px; color:#B79E9C!important;" class="combobox">English</span></a>
 								</div>
 							</div>
 							
@@ -65,19 +65,19 @@
 							<div class="menu2 row collapse navbar-collapse float-end"  id="collapseExample">
 								<ul class="nav float-end opciones-menu bottom-0">
 									<li class="item-menu">
-										<a href="index.php" class="nav-item nav-link pruebaDrupal is-active" data-drupal-link-system-path="&lt;front&gt;">Home</a>
+										<a href="index.php" class="nav-item nav-link pruebaDrupal is-active" data-drupal-link-system-path="&lt;front&gt;">Inicio</a>
 									</li>
 									<li class="item-menu">
-										<a href="equipo.php" class="nav-item nav-link pruebaDrupal" data-drupal-link-system-path="puntos-de-conexion">Team</a>
+										<a href="equipo.php" class="nav-item nav-link pruebaDrupal" data-drupal-link-system-path="puntos-de-conexion">Equipo</a>
 									</li>
 									<li class="item-menu">
-										<a href="asesoria.php" class="nav-item nav-link pruebaDrupal" data-drupal-link-system-path="node/156">Specializations</a>
+										<a href="asesoria.php" class="nav-item nav-link pruebaDrupal" data-drupal-link-system-path="node/156">Áreas de práctica</a>
 									</li>
 									<!--<li class="item-menu">
-										<a href="vinculos.php" class="nav-item nav-link pruebaDrupal" data-drupal-link-system-path="node/168">Links</a>
+										<a href="vinculos.php" class="nav-item nav-link pruebaDrupal" data-drupal-link-system-path="node/168">Vínculos</a>
 									</li>-->
 									<li class="item-menu">
-										<a href="contacto.php" class="nav-item nav-link pruebaDrupal" data-drupal-link-system-path="noticias">Contact</a>
+										<a href="contacto.php" class="nav-item nav-link pruebaDrupal" data-drupal-link-system-path="noticias">Contacto</a>
 									</li>
 								</ul>
 							</div>
@@ -88,21 +88,16 @@
 			</nav>
 		</header>
 
-		<!-- Portada 
-		<div class="portada">
-			<img width="100%" src="../img/portada-2.png">
-		</div>-->
-
 		<!-- Breadcrums -->
 		<div class="container breads" style="margin-top:20px">
-			<a class="breadcrums" href="index.php">Home</a>&nbsp;<span style="color:#B79E9C; font-size: 12pt;"><i style="" class="fa fa-chevron-right"></i></span><span class="texto-breads"> Team</span>
+			<a class="breadcrums" href="index.php">Inicio</a>&nbsp;<span style="color:#B79E9C; font-size: 12pt;"><i style="" class="fa fa-chevron-right"></i></span><span class="texto-breads"> Equipo</span>
 		</div>
 
 		<div id="features">
 			<div class="container">
 				<div class="section_header" style="margin-top: 30px;">
 					<!-- Título de página -->
-					<h1>Team of lawyers</h1>
+					<h1>Equipo de abogados</h1>
 				</div>
 			</div>
 
@@ -112,10 +107,10 @@
 						<h3>
 							<!-- Presentación -->
 							<p>
-								The lawyers that comprise it belong to different generations of professionals, who are in permanent interaction and study to enhance their experiences and skills.
+							Los abogados que lo componen pertenecen a distintas generaciones de profesionales, que están en permanente interacción y estudio para potenciar sus experiencias y habilidades.
 							</p>
 							<p>
-								Lawyers who have trained in this Firm have later become Court Ministers and have held other important public and private positions.
+							Abogados que se han formado en este Estudio han pasado a ser después Ministros de Corte y han desempeñado otros importantes cargos públicos y privados.
 							</p>
 							<br><br>
 						</h3>
@@ -124,24 +119,24 @@
 			</div>
 		</div>
 
-		<!-- Socios -->
+		<!-- Equipo socios -->
 		<div class="greyArea">
 			<div class="container">        
 				<div class="">
 					<h1>
-						Partners
+						Socios
 					</h1><p></p>
 					<div class="row">
-						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="margin-bottom: 30px;">
 							<a href="cacuna.php">
 								<img width="100%" src="../img/mak-7.png">
 							</a><br><br>
 							<a href="cacuna.php"><h2>Carlos Acuña Rivera</h2></a>
 							<hr>
 							<small>
-								School teaching at Santiago College and Lawyer at the Universidad del Desarrollo, with a postgraduate degree in “Criminal Procedural Law” and another in “Substantive Criminal Law”, both at the Catholic University of Chile.
+								Enseñanza escolar en el Santiago College y Abogado de la Universidad del Desarrollo, con un post título en “Derecho Procesal Penal” y otro en “Derecho Penal Sustantivo”, ambos en la Universidad Católica de Chile.
 							</small><p></p>
-							<a class="link-vermas" href="cacuna.php">See more</a>
+							<a class="link-vermas" href="cacuna.php">Ver más</a>
 						</div>
 
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="margin-bottom: 30px;">
@@ -151,9 +146,9 @@
 							<a href="macuna.php"><h2>Manuel Acuña Kairath</h2></a>
 							<hr>
 							<small>
-								Lawyer, graduated from the Faculty of Law of the Pontificia Universidad Católica de Chile in 1966.
+								Abogado, egresado de la Facultad de Derecho de la Pontificia Universidad Católica de Chile el año 1966.
 							</small><p></p>
-							<a class="link-vermas" href="macuna.php">See more</a>
+							<a class="link-vermas" href="macuna.php">Ver más</a>
 						</div>
 						
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
@@ -163,21 +158,21 @@
 							<a href="gacuna.php"><h2>Gerardo Acuña Rivera</h2></a>
 							<hr>
 							<small>
-								Partner of the Law Firm Manuel Acuña Kairath y Cía Ltda. Commercial Engineer from the University of Chile, postgraduate degree in Administration from the IAE Business School (Buenos Aires, Argentina).
+								Socio del Estudio jurídico Manuel Acuña Kairath y Cía Ltda. Ingeniero Comercial de la Universidad de Chile, postgrado en Administración en el IAE Business School (Buenos Aires, Argentina).
 							</small><p></p>
-							<a class="link-vermas" href="gacuna.php">See more</a>
+							<a class="link-vermas" href="gacuna.php">Ver más</a>
 						</div>
 						<br><br>
-						
 					</div>
 				</div>
 			</div>
 		</div>
 
 		<!-- Equipo de abogados y abogadas -->
+		
 			<div class="container mt-5">    
 				<h1>
-					Lawyer team
+					Equipo de abogados
 				</h1><p></p>    
 				<div class="">
 					<div class="row">
@@ -188,9 +183,9 @@
 							<a href="fuentes.php"><h2>Cristián Fuentes Uribe</h2></a>
 							<hr>
 							<small>
-								Lawyer graduated from the Alberto Hurtado University with a mention in Regulatory Law, with Cum Laude distinction in 2013.
+								Abogado licenciado de la Universidad Alberto Hurtado con mención en Derecho Regulatorio, con distinción Cum Laude en el año 2013.
 							</small><p></p>
-							<a class="link-vermas" href="fuentes.php">See more</a>
+							<a class="link-vermas" href="fuentes.php">Ver más</a>
 						</div>
 						
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
@@ -200,23 +195,25 @@
 							<a href="ccastillo.php"><h2>Claudia González Castillo</h2></a>
 							<hr>
 							<small>
-								Lawyer, Lawyer in Legal and Social Sciences of the University Alberto Hurtado.
+								Abogada Licenciada en Ciencias Jurídicas de la Universidad Alberto Hurtado.
 							</small><p></p>
-							<a class="link-vermas" href="ccastillo.php">See more</a>
+							<a class="link-vermas" href="ccastillo.php">Ver más</a>
 						</div>
+
 						
 						<br><br>
 					</div>
 				</div>
 			</div>
+		</div>
 		<br>
 
-		<!-- Equipo administrativo -->
+		<!-- Personal administrativo -->
 		<div class="greyArea">
 			<div class="container">        
 				<div class="" style="">
 					<h1>
-						Administrative team
+						Personal administrativo
 					</h1><p></p>
 					<div class="row">
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="margin-bottom: 30px;">
@@ -226,9 +223,9 @@
 							<a href="adiez.php"><h2>Alejandra Díez González</h2></a>
 							<hr>
 							<small>
-								Executive administrative officer of the studio since 1985, in charge of its general administration, management secretariat, files and financial management.
+								Administrativa ejecutiva del estudio desde el año 1985, a cargo de la administración general del mismo, secretaría gerencial, sus archivos y manejo económico. 
 							</small><p></p>
-							<a class="link-vermas" href="adiez.php">See more</a>
+							<a class="link-vermas" href="adiez.php">Ver más</a>
 						</div>
 
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="margin-bottom: 30px;">
@@ -238,9 +235,9 @@
 							<a href="forostica.php"><h2>Fernando Oróstica García</h2></a>
 							<hr>
 							<small>
-								Administrative of the Studio since 1983, in charge of communications with clients and procedures.
+								Administrativo del Estudio desde el año 1983, a cargo de las comunicaciones con los clientes y trámites.
 							</small><p></p>
-							<a class="link-vermas" href="forostica.php">See more</a>
+							<a class="link-vermas" href="forostica.php">Ver más</a>
 						</div>
 		
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
@@ -250,9 +247,9 @@
 							<a href="mmartinez.php"><h2>Macarena Martínez Aravena</h2></a>
 							<hr>
 							<small>
-								IT administrative officer of the studio since 2010 in charge of communications, reception, IT support and secretariat.
+								Administrativa informática del estudio desde el año 2010 a cargo de las comunicaciones, recepción, apoyo informático y secretaría.
 							</small><p></p>
-							<a class="link-vermas" href="mmartinez.php">See more</a>
+							<a class="link-vermas" href="mmartinez.php">Ver más</a>
 						</div>
 
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
@@ -262,22 +259,23 @@
 							<a href="cacosta.php"><h2>Claudia Acosta Levín</h2></a>
 							<hr>
 							<small>
-								Administrative Manager in charge of Study Reception since 2021, in charge of communication and support with the different areas.
+								Administrativa Encargada de Recepción del Estudio desde el año 2021, a cargo de la comunicación y apoyo con las distintas áreas.
 							</small><p></p>
-							<a class="link-vermas" href="cacosta.php">See more</a>
+							<a class="link-vermas" href="cacosta.php">Ver más</a>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 
+		
+
 		<!-- Call to action -->
 		<div class="call-2">
 			<div class="container" style="padding-top: 40px;">
-				<h1 style="color:#fff!important;">Learn about our practice areas</h1>
+				<h1 style="color:#fff!important;">Conoce nuestras áreas de práctica</h1>
 				<br>
-				<a href="asesoria.php"><button type="button" class="btn btn-call-2 "><i class="fa fa-gavel pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>Go to practice areas
-				</button></a>
+				<a href="asesoria.php"><button type="button" class="btn btn-call-2 "><i class="fa fa-gavel pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>Ir a áreas de prácticas</button></a>
 			</div>			
 		</div>
 
@@ -287,8 +285,8 @@
 				<div class="row sections">
 					<div class="span4 recent_posts">
 						<div class="row">
-							<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-								<a class="brand" href="index.php">
+							<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 brand">
+								<a class="" href="../es/index.php">
 									<!-- Logo footer -->
 									<img class="logo-f" src="../img/logo-mak-claro.png">
 								</a>							
@@ -296,33 +294,31 @@
 
 							<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
 								<!-- Menú de footer -->
-								<h3 class="footer_header">Menu</h3>
+								<h3 class="footer_header">Menú</h3>
 								<ul class="menu-footer">
 									<li>
-										<a class="footer-link" href="index.php">Home</a>
+										<a class="footer-link" href="../es/index.php">Inicio</a>
 									</li>
 									<li>
-										<a class="footer-link" href="equipo.php">Team</a>
+										<a class="footer-link" href="equipo.php">Equipo</a>
 									</li>
 									<li>
-										<a class="footer-link" href="asesoria.php">Specializations</a>
+										<a class="footer-link" href="asesoria.php">Áreas de práctica</a>
 									</li>
 									<!--<li>
-										<a class="footer-link" href="vinculos.php">Links</a>
+										<a class="footer-link" href="vinculos.php">Vínculos</a>
 									</li>-->
 									<li>
-										<a class="footer-link" href="contacto.php">Contact</a>
+										<a class="footer-link" href="contacto.php">Contacto</a>
 									</li>
 								</ul>
 							</div>
-
 							<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
 								<!-- Datos contacto -->
-								<h3 class="footer_header">Data of interest
-                                </h3>
+								<h3 class="footer_header">Datos de inter&eacute;s </h3>
 								<div class="post footer-text">
 									<p>
-										Huérfanos 835, office 1703, <br>Opera building, Santiago <br>
+										Huérfanos 835, oficina 1703, <br>edificio Opera, Santiago <br>
 										Tel. (562) 2633 6318 - 2633 0436<br>
 										
 										
@@ -337,8 +333,8 @@
 												<a class="redes-footer"href="#"><i class="fa fa-whatsapp"></i></a>
 												<a class="redes-footer"href="#"><i class="fa fa-linkedin-square"></i></a>
 											</div>
-											<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12" style="margin-top: 10px;">
-												<a class="link-footer" href="terminos-condiciones.php">Terms and conditions</a>
+											<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="margin-top: 10px;">
+												<a class="link-footer" href="terminos-condiciones.php">Términos y condiciones</a>
 											</div>-->
 										</div>
 									</div>
@@ -350,8 +346,8 @@
 			</div>
 		</footer>
 
-        <!-- Scripts -->
-        <script src="../inc/jquery-latest.js"></script>
+		<!-- Scripts -->
+		<script src="../inc/jquery-latest.js"></script>
 		<script src="../inc/bootstrap.min.js"></script>
 		<script src="../inc/theme.js"></script>
 		<script type="text/javascript" src="../inc/index-slider.js"></script>

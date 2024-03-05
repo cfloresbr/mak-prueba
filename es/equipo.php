@@ -222,9 +222,21 @@
 							</a><br><br>
 							<a href="adiez.php"><h2>Alejandra Díez González</h2></a>
 							<hr>
-							<small>
-								Administrativa ejecutiva del estudio desde el año 1985, a cargo de la administración general del mismo, secretaría gerencial, sus archivos y manejo económico. 
-							</small><p></p>
+							<details>
+								<summary>
+									<small>
+										Secretaria encargada de archivos y controles.
+									</small>
+								</summary>
+									<small>
+										Egresada de Derecho de la Universidad de Chile.
+									</small>
+									<small>
+										Administrativa ejecutiva del estudio desde el año 1985, a cargo de la administración general del mismo, secretaría gerencial, sus archivos y manejo económico. 
+									</small>
+								
+							</details>
+							<p></p>
 							<a class="link-vermas" href="adiez.php">Ver más</a>
 						</div>
 
