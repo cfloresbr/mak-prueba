@@ -268,6 +268,18 @@
 							</small><p></p>
 							<a class="link-vermas" href="mmartinez.php">See more</a>
 						</div>
+
+						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+							<a href="cacosta.php">
+								<img width="100%" src="../img/silueta-m.png">
+							</a><br><br>
+							<a href="cacosta.php"><h2>Claudia Acosta Levín</h2></a>
+							<hr>
+							<small>
+								Administrative Manager in charge of Study Reception since 2021, in charge of communication and support with the different areas.
+							</small><p></p>
+							<a class="link-vermas" href="cacosta.php">See more</a>
+						</div>
 					</div>
 				</div>
 			</div>

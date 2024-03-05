@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<title>Manuel Acuña Kairath - Abogados</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -28,16 +28,16 @@
 		<![endif]-->
 		<!-- <script type="text/javascript" src="../inc/load_v3.js"></script> -->
         <script type="text/javascript" src="../inc/source.js"></script>
-	</head>
+    </head>
 	<body class="pull_top" style="zoom: 1;">
-		<!-- Header -->						
+		<!-- Header 2 -->						
 		<header class="menu container-fluid-nav">
 			<nav class="float-center" role="navigation" aria-labelledby="block-navegacionprincipal-menu" id="block-navegacionprincipal">
 				<div class="navbar-expand-md" style="" role="navigation">
 					<div class="container">
 						<div class="row">
 							<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12" style="margin-top: 16px; text-align: left;">
-								<a class="brand" href="../es/index.php">
+								<a class="brand" href="../en/index.php">
 									<!-- Logo header -->
 									<img class="logo-header" src="../img/logo-mak.png">
 								</a>
@@ -54,7 +54,7 @@
 								<div class="rrss-idioma float-end" style="margin-top:14px!important;padding-bottom:;">
 									<!--<a class="redes-header"href="#"><i style="padding-top: 2px;" class="fa fa-whatsapp"></i></a>
 									<a class="redes-header"href="#"><i style="padding-top: 2px;" class="fa fa-linkedin-square"></i></a>-->
-									<a class="" href="../en/mmartinez.php"><span style="padding: 0 10px; color:#B79E9C!important;" class="combobox">English</span></a>
+									<a class="" href="../es/cacosta.php"><span style="padding: 0 10px; color:#B79E9C!important;" class="combobox">Español</span></a>
 								</div>
 							</div>
 							
@@ -65,19 +65,19 @@
 							<div class="menu2 row collapse navbar-collapse float-end"  id="collapseExample">
 								<ul class="nav float-end opciones-menu bottom-0">
 									<li class="item-menu">
-										<a href="index.php" class="nav-item nav-link pruebaDrupal is-active" data-drupal-link-system-path="&lt;front&gt;">Inicio</a>
+										<a href="index.php" class="nav-item nav-link pruebaDrupal is-active" data-drupal-link-system-path="&lt;front&gt;">Home</a>
 									</li>
 									<li class="item-menu">
-										<a href="equipo.php" class="nav-item nav-link pruebaDrupal" data-drupal-link-system-path="puntos-de-conexion">Equipo</a>
+										<a href="equipo.php" class="nav-item nav-link pruebaDrupal" data-drupal-link-system-path="puntos-de-conexion">Team</a>
 									</li>
 									<li class="item-menu">
-										<a href="asesoria.php" class="nav-item nav-link pruebaDrupal" data-drupal-link-system-path="node/156">Áreas de práctica</a>
+										<a href="asesoria.php" class="nav-item nav-link pruebaDrupal" data-drupal-link-system-path="node/156">Specializations</a>
 									</li>
 									<!--<li class="item-menu">
-										<a href="vinculos.php" class="nav-item nav-link pruebaDrupal" data-drupal-link-system-path="node/168">Vínculos</a>
+										<a href="vinculos.php" class="nav-item nav-link pruebaDrupal" data-drupal-link-system-path="node/168">Links</a>
 									</li>-->
 									<li class="item-menu">
-										<a href="contacto.php" class="nav-item nav-link pruebaDrupal" data-drupal-link-system-path="noticias">Contacto</a>
+										<a href="contacto.php" class="nav-item nav-link pruebaDrupal" data-drupal-link-system-path="noticias">Contact</a>
 									</li>
 								</ul>
 							</div>
@@ -90,33 +90,31 @@
 
 		<!-- Breadcrums -->
 		<div class="container" style="margin-top:20px">
-			<a class="breadcrums" href="index.php">Inicio</a>&nbsp;<span style="color:#B79E9C; font-size: 12pt;"><i style="" class="fa fa-chevron-right"></i></span>&nbsp;<a class="breadcrums" href="equipo.php">Equipo</a>&nbsp;<span style="color:#B79E9C; font-size: 12pt;"><i style="" class="fa fa-chevron-right"></i><span class="texto-breads"> Macarena Martínez Aravena</span>
+			<a class="breadcrums" href="index.php">Home</a>&nbsp;<span style="color:#B79E9C; font-size: 12pt;"><i style="" class="fa fa-chevron-right"></i></span>&nbsp;<a class="breadcrums" href="equipo.php">Team</a>&nbsp;<span style="color:#B79E9C; font-size: 12pt;"><i style="" class="fa fa-chevron-right"></i><span class="texto-breads"> Macarena Martínez Aravena</span>
 		</div>
 
 		<div class="container" style="margin-top: 70px; margin-bottom: 70px;">
 			<div class="row">
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12" style="margin-bottom: 30px!important;">
-					<img width="100%" src="../img/mak-vista6.png" style="display: block;">
+					<!-- Imagen -->
+					<img width="100%" src="../img/silueta-m.png" style="display: block;">
 				</div>
 
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-					<!-- Nombre y título de vista individual -->
-					<h1>Macarena Martínez Aravena</h1>
+					<!-- Nombre o título de vista individual -->
+					<h1>Claudia Acosta Levín</h1>
 					<hr>
 					<!-- Presentación -->
 					<p>
-						Secretaria Encargada de Comunicaciones y Servicios Tecnológicos. Licenciada digital ICDL, Fundación Chile.
-					</p>
-					<p>
-						Administrativa informática del estudio desde el año 2010 a cargo de las comunicaciones, recepción, apoyo informático y secretaría.
-					</p>
-					
+                        Administrative Manager in charge of Study Reception since 2021, in charge of communication and support with the different areas.
+                    </p>
+                    
 					<!-- Correo -->
 					<p>
 						<a class="link" href="mailto:%20mmartinez@mak.cl"><i class="fa fa-envelope pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>mmartinez@mak.cl</a>
 					</p><p><br></p>
-					<a href="forostica.php"><button type="button" class="btn btn-anterior "><i class="fa fa-arrow-left pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>Anterior</button></a>
-					<a href="cacosta.php"><button type="button" class="btn btn-siguiente  float-end">Siguiente<i class="fa fa-arrow-right pre" style="margin-left: 0.5rem;" aria-hidden="true"></i></button></a>
+					<a href="mmartinez.php"><button type="button" class="btn btn-anterior "><i class="fa fa-arrow-left pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>Previous</button></a>
+					<a href="cacuna.php"><button type="button" class="btn btn-siguiente  float-end">Next<i class="fa fa-arrow-right pre" style="margin-left: 0.5rem;" aria-hidden="true"></i></button></a>
 				</div>
 			</div>
 		</div>
@@ -127,8 +125,8 @@
 				<div class="row sections">
 					<div class="span4 recent_posts">
 						<div class="row">
-							<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 brand">
-								<a class="" href="../es/index.php">
+							<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+								<a class="brand" href="index.php">
 									<!-- Logo footer -->
 									<img class="logo-f" src="../img/logo-mak-claro.png">
 								</a>							
@@ -136,31 +134,33 @@
 
 							<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
 								<!-- Menú de footer -->
-								<h3 class="footer_header">Menú</h3>
+								<h3 class="footer_header">Menu</h3>
 								<ul class="menu-footer">
 									<li>
-										<a class="footer-link" href="../es/index.php">Inicio</a>
+										<a class="footer-link" href="index.php">Home</a>
 									</li>
 									<li>
-										<a class="footer-link" href="equipo.php">Equipo</a>
+										<a class="footer-link" href="equipo.php">Team</a>
 									</li>
 									<li>
-										<a class="footer-link" href="asesoria.php">Áreas de práctica</a>
+										<a class="footer-link" href="asesoria.php">Specializations</a>
 									</li>
 									<!--<li>
-										<a class="footer-link" href="vinculos.php">Vínculos</a>
+										<a class="footer-link" href="vinculos.php">Links</a>
 									</li>-->
 									<li>
-										<a class="footer-link" href="contacto.php">Contacto</a>
+										<a class="footer-link" href="contacto.php">Contact</a>
 									</li>
 								</ul>
 							</div>
+
 							<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
 								<!-- Datos contacto -->
-								<h3 class="footer_header">Datos de inter&eacute;s </h3>
+								<h3 class="footer_header">Data of interest
+                                </h3>
 								<div class="post footer-text">
 									<p>
-										Huérfanos 835, oficina 1703, <br>edificio Opera, Santiago <br>
+										Huérfanos 835, office 1703, <br>Opera building, Santiago <br>
 										Tel. (562) 2633 6318 - 2633 0436<br>
 										
 										
@@ -175,8 +175,8 @@
 												<a class="redes-footer"href="#"><i class="fa fa-whatsapp"></i></a>
 												<a class="redes-footer"href="#"><i class="fa fa-linkedin-square"></i></a>
 											</div>
-											<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="margin-top: 10px;">
-												<a class="link-footer" href="terminos-condiciones.php">Términos y condiciones</a>
+											<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12" style="margin-top: 10px;">
+												<a class="link-footer" href="terminos-condiciones.php">Terms and conditions</a>
 											</div>-->
 										</div>
 									</div>
@@ -188,8 +188,8 @@
 			</div>
 		</footer>
 
-		<!-- Scripts -->
-		<script src="../inc/jquery-latest.js"></script>
+        <!-- Scripts -->
+        <script src="../inc/jquery-latest.js"></script>
 		<script src="../inc/bootstrap.min.js"></script>
 		<script src="../inc/theme.js"></script>
 		<script type="text/javascript" src="../inc/index-slider.js"></script>

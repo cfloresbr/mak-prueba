@@ -111,10 +111,7 @@
 						Su práctica profesional la realizó en la Intendencia Metropolitana de Santiago y se desempeñó como alumna pasante en el Consejo para la Transparencia y la Dirección de Estudios de la Corte Suprema.
 					</p>
 					<p>
-						Durante sus primeros años de ejercicio, se dedicó a la litigación en causas penales relativas principalmente a delitos económicos.
-					</p>
-					<p>
-						Su ejercicio profesional se orienta a la tramitación de causas penales, civiles y laborales.
+						Su ejercicio profesional se orienta a la tramitación de causas penales, civiles, administrativas y comerciales.
 					</p>
 					<p>
 						Idiomas: Español e Inglés básico.

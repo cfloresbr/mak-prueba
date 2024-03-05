@@ -106,19 +106,19 @@
 					<hr>
 					<!-- Presentación -->
 					<p>
-                        Lawyer, graduated from the Faculty of Law at the Alberto Hurtado University, with Cum Laude distinction in 2013, majoring in regulatory law.
+						Lawyer graduated from the Alberto Hurtado University with a mention in Regulatory Law, with Cum Laude distinction in 2013.
                     </p>
                     <p>
-                        He did an intership in the Loyola University from Chicago, EEUU, in the Antitrust and Consumer Law Department for a research about Essential Facilities. In his profesional career, he has worked in Courts (Tribunal Oral en lo Penal) and in the public sector (Divisi&oacute;n Jur&iacute;dica del Ministerio de Econom&iacute;a de Chile).
+						He completed an internship at Loyola University in Chicago, USA, at the Antitrust and Consumer Law Institute. In his professional career he has worked in courts (Oral Criminal Court) and in the public sector (Legal Division of the Ministry of Economy).
                     <p>
                     <p>
-                        He did a postitle in Administrative Law in the Universidad Católica de Chile.
+						He has a diploma in Administrative Law from the Pontificia Universidad Católica de Chile.
                     <p>
                     <p>
-                        Its exercise is primarily oriented in the areas of civil law, public law and corporate law.
+						His professional practice is mainly focused on the areas of civil, criminal, administrative litigation, and advice on corporate and company law.
                     </p>
                     <p>
-                        Mr. Fuentes speaks Spanish, English and basic Japanese.
+                        Languages: Spanish and English, plus basic Japanese.
                     </p>
 					<!-- Correo -->
 				   	<p>

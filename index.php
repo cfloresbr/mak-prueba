@@ -87,9 +87,9 @@
 									<li class="item-menu">
 										<a href="es/asesoria.php" class="nav-item nav-link pruebaDrupal" data-drupal-link-system-path="node/156">Áreas de práctica</a>
 									</li>
-									<li class="item-menu">
+									<!--<li class="item-menu">
 										<a href="es/vinculos.php" class="nav-item nav-link pruebaDrupal" data-drupal-link-system-path="node/168">Vínculos</a>
-									</li>
+									</li>-->
 									<li class="item-menu">
 										<a href="es/contacto.php" class="nav-item nav-link pruebaDrupal" data-drupal-link-system-path="noticias">Contacto</a>
 									</li>
@@ -251,9 +251,9 @@
 									<li>
 										<a class="footer-link" href="es/asesoria.php">Áreas de práctica</a>
 									</li>
-									<li>
+									<!--<li>
 										<a class="footer-link" href="es/vinculos.php">Vínculos</a>
-									</li>
+									</li>-->
 									<li>
 										<a class="footer-link" href="es/contacto.php">Contacto</a>
 									</li>

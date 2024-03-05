@@ -106,7 +106,13 @@
 					<hr>
 					<!-- Presentación -->
 					<p>
+						Secretaria encargada de archivos y controles.
+					</p>
+					<p>
 						Egresada de Derecho de la Universidad de Chile.
+					</p>
+					<p>
+						Administrativa ejecutiva del estudio desde el año 1985, a cargo de la administración general del mismo, secretaría gerencial, sus archivos y manejo económico. 
 					</p>
 					<!-- Correo -->
 					<p>

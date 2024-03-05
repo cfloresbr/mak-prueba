@@ -53,7 +53,7 @@
 								<div class="rrss-idioma float-end" style="margin-top:14px!important;padding-bottom:;">
 									<!--<a class="redes-header"href="#"><i style="padding-top: 2px;" class="fa fa-whatsapp"></i></a>
 									<a class="redes-header"href="#"><i style="padding-top: 2px;" class="fa fa-linkedin-square"></i></a>-->
-									<a class="" href="../en/mmartinez.php"><span style="padding: 0 10px; color:#B79E9C!important;" class="combobox">English</span></a>
+									<a class="" href="../en/cacuna.php"><span style="padding: 0 10px; color:#B79E9C!important;" class="combobox">English</span></a>
 								</div>
 							</div>
 							
@@ -109,6 +109,9 @@
 					</p>
 					<p>
 						Ha ejercido de manera continua la profesión en distintos ámbitos, tanto en Chile como en el extranjero. Actualmente es Abogado jefe y Socio del Estudio Jurídico Manuel Acuña Kairath y Cía Ltda.
+					</p>
+					<p>
+						Idiomas: Español e Inglés básico.
 					</p>
 					<p>
 						<a class="link" href="mailto:%20cacuna@mak.cl"><i class="fa fa-envelope pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>cacuna@mak.cl</a>

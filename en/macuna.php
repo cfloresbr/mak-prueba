@@ -107,13 +107,13 @@
 					<hr>
 					<!-- Presentación -->
 					<p>
-                        Lawyer, graduated from Pontificia Universidad Católica de Chile in 1966 where he obtained his law degree. Mr. Acuña has concentrated his practice primarily in the areas of criminal law and litigation. He has also served as a mediador, having advised clients not only natural or legal persons, but also the State of Chile.
+						Lawyer, graduated from the Faculty of Law of the Pontificia Universidad Católica de Chile in 1966. He has practiced mainly in the areas of criminal law and litigation. Likewise, he has served as an arbitrator, having advised not only natural and legal persons, but also the State of Chile.
                     </p>
                     <p>
-                        Mr. Acuña received a certificate in Criminal Procedure Reform from Centro de Promoción Universitaria CPU in 2000. He also received a certificate in Criminal Procedure Reform from the Law Department of Pontificia Universidad Católica de Chile in 2003.
+						He has a diploma from the CPU University Promotion Center in 2000 on Criminal Procedure Reform, and a diploma in Criminal Procedure Reform from the Faculty of Law of the Pontificia Universidad Católica de Chile in 2003.
                     </p>
                     <p>
-                        Mr. Acuña is an active glider pilot and sea captain, having been chairman of the drafting committee of the Aeronautical Code reform, and founder and head of the law firm since 1977, directing full-time to date.
+						He is an active glider pilot and high seas captain, having been president of the drafting commission for reform of the Aeronautical Code, and founder and head of the Study since 1977, directing it with exclusive dedication to date.
                     </p>
 					<a href="cacuna.php"><button type="button" class="btn btn-anterior "><i class="fa fa-arrow-left pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>Previous</button></a>
 					<a href="gacuna.php"><button type="button" class="btn btn-siguiente  float-end">Next<i class="fa fa-arrow-right pre" style="margin-left: 0.5rem;" aria-hidden="true"></i></button></a>

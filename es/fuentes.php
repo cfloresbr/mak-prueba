@@ -106,20 +106,21 @@
 					<hr>
 					<!-- Presentación -->
 					<p>
-						Abogado licenciado de la Universidad Alberto Hurtado con mención en Derecho Regulatorio de la Universidad Alberto Hurtado, con distinción Cum Laude en el año 2013. 
+						Abogado licenciado de la Universidad Alberto Hurtado con mención en Derecho Regulatorio, con distinción Cum Laude en el año 2013.
 				   	</p>
 					 <p>
-					   Realizó una pasantía en la Universidad de Loyola en Chicago, EEUU, en el Instituto de Antitrust and Consumer Law para una investigación asociada a Facilidades Esenciales. En su carrera profesional ha trabajado en tribunales (Tribunal Oral en lo Penal) y en el sector público (División Jurídica del Ministerio de Economía).
+					 	Realizó una pasantía en la Universidad de Loyola en Chicago, EEUU, en el Instituto de Antitrust and Consumer Law. En su carrera profesional ha trabajado en tribunales (Tribunal Oral en lo Penal) y en el sector público (División Jurídica del Ministerio de Economía).
 					</p>
 					<p>
-					   Tiene un diplomado en Derecho Administrativo, realizado en la Universidad Católica de Chile.
+						Tiene un diplomado en Derecho Administrativo de la Pontificia Universidad Católica de Chile.
 					</p>
 				   	<p>
 					   Su ejercicio profesional se orienta principalmente en las áreas de litigación civil, penal, administrativa, y en asesoría en derecho corporativo y societario.
 				   	</p>
-				   	<p>
-					   El Sr. Fuentes habla español e inglés, además de japonés básico.
+					<p>
+						Idiomas: Español e inglés, además de japonés básico.
 				   	</p>
+				   	
 					<!-- Correo -->
 				   	<p>
 						<a class="link" href="mailto:%20cfuentes@mak.cl"><i class="fa fa-envelope pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>cfuentes@mak.cl</a>

@@ -264,6 +264,18 @@
 							</small><p></p>
 							<a class="link-vermas" href="mmartinez.php">Ver más</a>
 						</div>
+
+						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+							<a href="cacosta.php">
+								<img width="100%" src="../img/silueta-m.png">
+							</a><br><br>
+							<a href="cacosta.php"><h2>Claudia Acosta Levín</h2></a>
+							<hr>
+							<small>
+								Administrativa Encargada de Recepción del Estudio desde el año 2021, a cargo de la comunicación y apoyo con las distintas áreas.
+							</small><p></p>
+							<a class="link-vermas" href="cacosta.php">Ver más</a>
+						</div>
 					</div>
 				</div>
 			</div>

@@ -112,6 +112,9 @@
 						He has held executive and management positions for almost 30 years in top-level companies in the financial and energy sectors.
 					</p>
 					<p>
+                        Languages: Spanish and basic English.
+                    </p>
+					<p>
 						<a class="link" href="mailto:%20gacuna@mak.cl"><i class="fa fa-envelope pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>gacuna@mak.cl</a>
 					</p>
 					<br>

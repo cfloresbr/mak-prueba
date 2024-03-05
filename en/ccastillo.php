@@ -112,10 +112,7 @@
                         Her professional practice was carried out in the Metropolitan Intendency of Santiago and she served as a student intern in the Council for Transparency and the Studies Directorate of the Supreme Court.
                     </p>
                     <p>
-                        During her first years of exercise, she devoted himself to litigation in criminal cases related mainly to economic crimes.
-                    </p>
-                    <p>
-                        Her professional practice is oriented to the processing of criminal, civil and labor cases.
+						Her professional practice is oriented towards the processing of criminal, civil, administrative and commercial cases.
                     </p>
                     <p>
                         Languages: Spanish and basic English.

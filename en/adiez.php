@@ -106,7 +106,13 @@
 					<hr>
 					<!-- Presentación -->
 					<p>
+						Secretary in charge of files and controls.
+					</p>
+					<p>
                         Law graduate from the University of Chile.
+					</p>
+					<p>
+						Executive administrative officer of the studio since 1985, in charge of its general administration, management secretariat, files and financial management.
 					</p>
 					<!-- Correo -->
 					<p>

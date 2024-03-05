@@ -111,6 +111,9 @@
 						Se ha desempeñado en cargos ejecutivos y gerenciales por casi 30 años en empresas de primer nivel en los rubros financiero y de energía.
 					</p>
 					<p>
+						Idiomas: Español e inglés.
+					</p>
+					<p>
 						<a class="link" href="mailto:%20gacuna@mak.cl"><i class="fa fa-envelope pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>gacuna@mak.cl</a>
 					</p>
 					<a href="macuna.php"><button type="button" class="btn btn-anterior "><i class="fa fa-arrow-left pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>Anterior</button></a>

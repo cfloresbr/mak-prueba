@@ -106,10 +106,13 @@
 					<hr>
 					<!-- Presentación -->
 					<p>
-						Agente Comercial, título profesional otorgado por el Instituto Superior de Comercio de Talca.
+						Jefe de Operaciones y Logística. Agente Comercial, título profesional otorgado por el Instituto Superior de Comercio de Talca.
 					</p>
 					<p>
-						Otros estudios: Secretario Ejecutivo.
+						Secretario Ejecutivo.
+					</p>
+					<p>
+						Administrativo del Estudio desde el año 1983, a cargo de las comunicaciones con los clientes y trámites. 
 					</p>
 					<!-- Correo -->
 					<p>

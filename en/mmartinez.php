@@ -106,20 +106,17 @@
 					<hr>
 					<!-- Presentación -->
 					<p>
-                        ICDL digital license, Fundaci&oacute;n Chile.
+						Secretary in Charge of Communications and Technological Services. ICDL digital graduate, Fundación Chile.
                     </p>
                     <p>
-                        Systems analyst.
-                    </p>
-                    <p>
-                        Computer programmer.
+						IT administrative officer of the studio since 2010 in charge of communications, reception, IT support and secretariat.
                     </p>
 					<!-- Correo -->
 					<p>
 						<a class="link" href="mailto:%20mmartinez@mak.cl"><i class="fa fa-envelope pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>mmartinez@mak.cl</a>
 					</p><p><br></p>
 					<a href="forostica.php"><button type="button" class="btn btn-anterior "><i class="fa fa-arrow-left pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>Previous</button></a>
-					<a href="cacuna.php"><button type="button" class="btn btn-siguiente  float-end">Next<i class="fa fa-arrow-right pre" style="margin-left: 0.5rem;" aria-hidden="true"></i></button></a>
+					<a href="cacosta.php"><button type="button" class="btn btn-siguiente  float-end">Next<i class="fa fa-arrow-right pre" style="margin-left: 0.5rem;" aria-hidden="true"></i></button></a>
 				</div>
 			</div>
 		</div>

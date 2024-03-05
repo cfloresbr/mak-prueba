@@ -106,11 +106,14 @@
 					<hr>
 					<!-- Presentación -->
 					<p>
-						He studied at Santiago College and Lawyer at the Universidad del Desarrollo, with a postgraduate degree in “Criminal Procedural Law” and another in “Substantive Criminal Law”, both at the Catholic University of Chile.
+						School teaching at Santiago College and Lawyer at the Universidad del Desarrollo, with a postgraduate degree in “Criminal Procedural Law” and another in “Substantive Criminal Law”, both at the Catholic University of Chile.
 					</p>
 					<p>
 						He has continuously practiced the profession in different areas, both in Chile and abroad. He is currently Chief Lawyer and Partner of the Manuel Acuña Kairath y Cía Ltda Law Firm.
 					</p>
+					<p>
+                        Languages: Spanish and basic English.
+                    </p>
 					<p>
 						<a class="link" href="mailto:%20cacuna@mak.cl"><i class="fa fa-envelope pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>cacuna@mak.cl</a>
 					</p>

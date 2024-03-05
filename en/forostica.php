@@ -106,10 +106,13 @@
 					<hr>
 					<!-- Presentación -->
 					<p>
-                        Commercial Agent, professional title granted by the Higher Institute of Commerce of Talca.
+						Head of Operations and Logistics. Commercial Agent, professional title awarded by the Higher Institute of Commerce of Talca.
                     </p>
                     <p>
-                        Other studies: Executive Secretary.
+						Executive Secretary.
+                    </p>
+					<p>
+						Administrative of the Studio since 1983, in charge of communications with clients and procedures.
                     </p>
 					<!-- Correo -->
 					<p>

@@ -107,13 +107,13 @@
 					<hr>
 					<!-- Presentación -->
 					<p>
-						Abogado, egresado de la Facultad de Derecho de la Pontificia Universidad Católica de Chile el año 1966. El Sr. Acuña ha concentrado su ejercicio principalmente en las áreas del derecho penal y litigación. Asimismo, ha ejercido como árbitro, habiendo asesorado no sólo a clientes personas naturales o jurídicas, sino también al Estado de Chile.
+						Abogado, egresado de la Facultad de Derecho de la Pontificia Universidad Católica de Chile el año 1966. Ha ejercido principalmente en las áreas del derecho penal y litigación. Asimismo, se ha desempeñado como árbitro, habiendo asesorado no sólo a personas naturales y jurídicas, sino también al Estado de Chile.
 					</p>
 					<p>
 						Es diplomado del Centro de Promoción Universitaria CPU en el año 2000 sobre la Reforma Procesal Penal, y diplomado en Reforma Procesal Penal por la Facultad de Derecho de la Pontificia Universidad Católica de Chile el año 2003.
 					</p>
 					<p>
-						El Sr. Acuña es piloto activo de planeador y capitán de alta mar, habiendo sido presidente de la comisión redactora del reforma al Código Aeronáutico, y fundador y jefe del Estudio desde el año 1977, dirigiéndolo con dedicación exclusiva hasta la fecha.
+						Es piloto activo de planeador y capitán de alta mar, habiendo sido presidente de la comisión redactora de reforma al Código Aeronáutico, y fundador y jefe del Estudio desde el año 1977, dirigiéndolo con dedicación exclusiva hasta la fecha.
 					</p>
 					<a href="cacuna.php"><button type="button" class="btn btn-anterior "><i class="fa fa-arrow-left pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>Anterior</button></a>
 					<a href="gacuna.php"><button type="button" class="btn btn-siguiente  float-end">Siguiente<i class="fa fa-arrow-right pre" style="margin-left: 0.5rem;" aria-hidden="true"></i></button></a>

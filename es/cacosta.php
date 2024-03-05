@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<title>Manuel Acuña Kairath - Abogados</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -19,7 +19,7 @@
 		<link href="../inc/animate.css" rel="stylesheet" type="text/css" media="screen, projection">
 		<link href="../inc/portfolio.css" rel="stylesheet" type="text/css" media="screen">
 		<link href="../inc/contact.css" type="text/css" rel="stylesheet" media="screen">
-		
+
 		<script src="https://use.fontawesome.com/releases/v5.13.1/js/all.js" defer crossorigin="anonymous"></script>
         <script src="https://use.fontawesome.com/releases/v5.13.1/js/v4-shims.js" defer crossorigin="anonymous"></script>
 
@@ -54,7 +54,7 @@
 								<div class="rrss-idioma float-end" style="margin-top:14px!important;padding-bottom:;">
 									<!--<a class="redes-header"href="#"><i style="padding-top: 2px;" class="fa fa-whatsapp"></i></a>
 									<a class="redes-header"href="#"><i style="padding-top: 2px;" class="fa fa-linkedin-square"></i></a>-->
-									<a class="" href="../en/mmartinez.php"><span style="padding: 0 10px; color:#B79E9C!important;" class="combobox">English</span></a>
+									<a class="" href="../en/cacosta.php"><span style="padding: 0 10px; color:#B79E9C!important;" class="combobox">English</span></a>
 								</div>
 							</div>
 							
@@ -90,33 +90,31 @@
 
 		<!-- Breadcrums -->
 		<div class="container" style="margin-top:20px">
-			<a class="breadcrums" href="index.php">Inicio</a>&nbsp;<span style="color:#B79E9C; font-size: 12pt;"><i style="" class="fa fa-chevron-right"></i></span>&nbsp;<a class="breadcrums" href="equipo.php">Equipo</a>&nbsp;<span style="color:#B79E9C; font-size: 12pt;"><i style="" class="fa fa-chevron-right"></i><span class="texto-breads"> Macarena Martínez Aravena</span>
+			<a class="breadcrums" href="index.php">Inicio</a>&nbsp;<span style="color:#B79E9C; font-size: 12pt;"><i style="" class="fa fa-chevron-right"></i></span>&nbsp;<a class="breadcrums" href="equipo.php">Equipo</a>&nbsp;<span style="color:#B79E9C; font-size: 12pt;"><i style="" class="fa fa-chevron-right"></i><span class="texto-breads"> Alejandra Díez González</span>
 		</div>
 
-		<div class="container" style="margin-top: 70px; margin-bottom: 70px;">
+	    <div class="container" style="margin-top: 70px; margin-bottom: 70px;">
 			<div class="row">
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12" style="margin-bottom: 30px!important;">
-					<img width="100%" src="../img/mak-vista6.png" style="display: block;">
+					<!-- Imagen -->
+					<img width="100%" src="../img/silueta-m.png" style="display: block;">
 				</div>
 
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-					<!-- Nombre y título de vista individual -->
-					<h1>Macarena Martínez Aravena</h1>
+					<!-- Nombre o título de vista individual-->
+					<h1>Claudia Acosta Levín </h1>
 					<hr>
 					<!-- Presentación -->
 					<p>
-						Secretaria Encargada de Comunicaciones y Servicios Tecnológicos. Licenciada digital ICDL, Fundación Chile.
-					</p>
-					<p>
-						Administrativa informática del estudio desde el año 2010 a cargo de las comunicaciones, recepción, apoyo informático y secretaría.
+                        Administrativa Encargada de Recepción del Estudio desde el año 2021, a cargo de la comunicación y apoyo con las distintas áreas.
 					</p>
 					
 					<!-- Correo -->
 					<p>
-						<a class="link" href="mailto:%20mmartinez@mak.cl"><i class="fa fa-envelope pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>mmartinez@mak.cl</a>
+						<a class="link" href="mailto:%20adiezg@mak.cl"><i class="fa fa-envelope pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>adiezg@mak.cl</a>
 					</p><p><br></p>
-					<a href="forostica.php"><button type="button" class="btn btn-anterior "><i class="fa fa-arrow-left pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>Anterior</button></a>
-					<a href="cacosta.php"><button type="button" class="btn btn-siguiente  float-end">Siguiente<i class="fa fa-arrow-right pre" style="margin-left: 0.5rem;" aria-hidden="true"></i></button></a>
+					<a href="mmartinez.php"><button type="button" class="btn btn-anterior "><i class="fa fa-arrow-left pre" style="margin-right: 0.5rem;" aria-hidden="true"></i>Anterior</button></a>
+					<a href="cacuna.php"><button type="button" class="btn btn-siguiente  float-end">Siguiente<i class="fa fa-arrow-right pre" style="margin-left: 0.5rem;" aria-hidden="true"></i></button></a>
 				</div>
 			</div>
 		</div>
