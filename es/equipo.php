@@ -128,10 +128,9 @@
 					</h1><p></p>
 					<div class="row">
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="margin-bottom: 30px;">
-							<a href="cacuna.php">
-								<img width="100%" src="../img/mak-7.png">
-							</a><br><br>
-							<a href="cacuna.php"><h2>Carlos Acuña Rivera</h2></a>
+							<img width="100%" src="../img/mak-7.png">
+							<br><br>
+							<h2>Carlos Acuña Rivera</h2>
 							<hr>
 							<details>
 								<summary>
@@ -151,10 +150,9 @@
 						</div>
 
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="margin-bottom: 30px;">
-							<a href="macuna.php">
-								<img width="100%" src="../img/mak-1.png">
-							</a><br><br>
-							<a href="macuna.php"><h2>Manuel Acuña Kairath</h2></a>
+							<img width="100%" src="../img/mak-1.png">
+							<br><br>
+							<h2>Manuel Acuña Kairath</h2>
 							<hr>
 							<details>
 								<summary>
@@ -173,10 +171,9 @@
 						</div>
 						
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-							<a href="gacuna.php">
-								<img width="100%" src="../img/mak-8.png">
-							</a><br><br>
-							<a href="gacuna.php"><h2>Gerardo Acuña Rivera</h2></a>
+							<img width="100%" src="../img/mak-8.png">
+							<br><br>
+							<h2>Gerardo Acuña Rivera</h2>
 							<hr>
 							<details>
 								<summary>
@@ -209,10 +206,9 @@
 				<div class="">
 					<div class="row">
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="margin-bottom: 30px;">
-							<a href="fuentes.php">
-								<img width="100%" src="../img/mak-2.png">
-							</a><br><br>
-							<a href="fuentes.php"><h2>Cristián Fuentes Uribe</h2></a>
+							<img width="100%" src="../img/mak-2.png">
+							<br><br>
+							<h2>Cristián Fuentes Uribe</h2>
 							<hr>
 							<details>
 								<summary>
@@ -238,9 +234,8 @@
 						</div>
 						
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-							<a href="ccastillo.php">
-								<img width="100%" src="../img/mak-3.png">
-							</a><br><br>
+							<img width="100%" src="../img/mak-3.png">
+							<br><br>
 							<a href="ccastillo.php"><h2>Claudia González Castillo</h2></a>
 							<hr>
 							<details>
@@ -279,10 +274,9 @@
 					</h1><p></p>
 					<div class="row">
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="margin-bottom: 30px;">
-							<a href="adiez.php">
-								<img width="100%" src="../img/mak-4.png">
-							</a><br><br>
-							<a href="adiez.php"><h2>Alejandra Díez González</h2></a>
+							<img width="100%" src="../img/mak-4.png">
+							<br><br>
+							<h2>Alejandra Díez González</h2>
 							<hr>
 							<details>
 								<summary>
@@ -302,10 +296,9 @@
 						</div>
 
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="margin-bottom: 30px;">
-							<a href="forostica.php">
-								<img width="100%" src="../img/mak-5.png">
-							</a><br><br>
-							<a href="forostica.php"><h2>Fernando Oróstica García</h2></a>
+							<img width="100%" src="../img/mak-5.png">
+							<br><br>
+							<h2>Fernando Oróstica García</h2>
 							<hr>
 							<details>
 								<summary>
@@ -325,10 +318,9 @@
 						</div>
 		
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-							<a href="mmartinez.php">
-								<img width="100%" src="../img/mak-6.png">
-							</a><br><br>
-							<a href="mmartinez.php"><h2>Macarena Martínez Aravena</h2></a>
+							<img width="100%" src="../img/mak-6.png">
+							<br><br>
+							<h2>Macarena Martínez Aravena</h2>
 							<hr>
 							<details>
 								<summary>
@@ -345,10 +337,9 @@
 						</div>
 
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-							<a href="cacosta.php">
-								<img width="100%" src="../img/silueta-m.png">
-							</a><br><br>
-							<a href="cacosta.php"><h2>Claudia Acosta Levín</h2></a>
+							<img width="100%" src="../img/silueta-m.png">
+							<br><br>
+							<h2>Claudia Acosta Levín</h2>
 							<hr>
 							<small>
 								Administrativa Encargada de Recepción del Estudio desde el año 2021, a cargo de la comunicación y apoyo con las distintas áreas.

@@ -133,33 +133,39 @@
 					</h1><p></p>
 					<div class="row">
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-							<img width="100%" src="../img/mak-7.png">
-							<br><br>
-							<h2>Carlos Acuña Rivera</h2></a>
+							<a href="cacuna.php">
+								<img width="100%" src="../img/mak-7.png">
+							</a><br><br>
+							<a href="cacuna.php"><h2>Carlos Acuña Rivera</h2></a>
 							<hr>
 							<small>
 								School teaching at Santiago College and Lawyer at the Universidad del Desarrollo, with a postgraduate degree in “Criminal Procedural Law” and another in “Substantive Criminal Law”, both at the Catholic University of Chile.
 							</small><p></p>
+							<a class="link-vermas" href="cacuna.php">See more</a>
 						</div>
 
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="margin-bottom: 30px;">
-							<img width="100%" src="../img/mak-1.png">
-							<br><br>
-							<h2>Manuel Acuña Kairath</h2>
+							<a href="macuna.php">
+								<img width="100%" src="../img/mak-1.png">
+							</a><br><br>
+							<a href="macuna.php"><h2>Manuel Acuña Kairath</h2></a>
 							<hr>
 							<small>
 								Lawyer, graduated from the Faculty of Law of the Pontificia Universidad Católica de Chile in 1966.
 							</small><p></p>
+							<a class="link-vermas" href="macuna.php">See more</a>
 						</div>
 						
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-							<img width="100%" src="../img/mak-8.png">
-							<br><br>
-							<h2>Gerardo Acuña Rivera</h2>
+							<a href="gacuna.php">
+								<img width="100%" src="../img/mak-8.png">
+							</a><br><br>
+							<a href="gacuna.php"><h2>Gerardo Acuña Rivera</h2></a>
 							<hr>
 							<small>
 								Partner of the Law Firm Manuel Acuña Kairath y Cía Ltda. Commercial Engineer from the University of Chile, postgraduate degree in Administration from the IAE Business School (Buenos Aires, Argentina).
 							</small><p></p>
+							<a class="link-vermas" href="gacuna.php">See more</a>
 						</div>
 						<br><br>
 						
@@ -176,23 +182,27 @@
 				<div class="">
 					<div class="row">
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="margin-bottom: 30px;">
-							<img width="100%" src="../img/mak-2.png">
-							<br><br>
-							<h2>Cristián Fuentes Uribe</h2>
+							<a href="fuentes.php">
+								<img width="100%" src="../img/mak-2.png">
+							</a><br><br>
+							<a href="fuentes.php"><h2>Cristián Fuentes Uribe</h2></a>
 							<hr>
 							<small>
 								Lawyer graduated from the Alberto Hurtado University with a mention in Regulatory Law, with Cum Laude distinction in 2013.
 							</small><p></p>
+							<a class="link-vermas" href="fuentes.php">See more</a>
 						</div>
 						
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-							<img width="100%" src="../img/mak-3.png">
-							<br><br>
-							<h2>Claudia González Castillo</h2>
+							<a href="ccastillo.php">
+								<img width="100%" src="../img/mak-3.png">
+							</a><br><br>
+							<a href="ccastillo.php"><h2>Claudia González Castillo</h2></a>
 							<hr>
 							<small>
 								Lawyer, Lawyer in Legal and Social Sciences of the University Alberto Hurtado.
 							</small><p></p>
+							<a class="link-vermas" href="ccastillo.php">See more</a>
 						</div>
 						
 						<br><br>
@@ -210,43 +220,51 @@
 					</h1><p></p>
 					<div class="row">
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="margin-bottom: 30px;">
-							<img width="100%" src="../img/mak-4.png">
-							<br><br>
-							<h2>Alejandra Díez González</h2>
+							<a href="adiez.php">
+								<img width="100%" src="../img/mak-4.png">
+							</a><br><br>
+							<a href="adiez.php"><h2>Alejandra Díez González</h2></a>
 							<hr>
 							<small>
 								Executive administrative officer of the studio since 1985, in charge of its general administration, management secretariat, files and financial management.
 							</small><p></p>
+							<a class="link-vermas" href="adiez.php">See more</a>
 						</div>
 
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="margin-bottom: 30px;">
-							<img width="100%" src="../img/mak-5.png">
-							<br><br>
-							<h2>Fernando Oróstica García</h2>
+							<a href="forostica.php">
+								<img width="100%" src="../img/mak-5.png">
+							</a><br><br>
+							<a href="forostica.php"><h2>Fernando Oróstica García</h2></a>
 							<hr>
 							<small>
 								Administrative of the Studio since 1983, in charge of communications with clients and procedures.
 							</small><p></p>
+							<a class="link-vermas" href="forostica.php">See more</a>
 						</div>
 		
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-							<img width="100%" src="../img/mak-6.png">
-							<br><br>
-							<h2>Macarena Martínez Aravena</h2></a>
+							<a href="mmartinez.php">
+								<img width="100%" src="../img/mak-6.png">
+							</a><br><br>
+							<a href="mmartinez.php"><h2>Macarena Martínez Aravena</h2></a>
 							<hr>
 							<small>
 								IT administrative officer of the studio since 2010 in charge of communications, reception, IT support and secretariat.
 							</small><p></p>
+							<a class="link-vermas" href="mmartinez.php">See more</a>
 						</div>
 
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-							<img width="100%" src="../img/silueta-m.png">
-							<br><br>
-							<h2>Claudia Acosta Levín</h2>
+							<a href="cacosta.php">
+								<img width="100%" src="../img/silueta-m.png">
+							</a><br><br>
+							<a href="cacosta.php"><h2>Claudia Acosta Levín</h2></a>
 							<hr>
 							<small>
 								Administrative Manager in charge of Study Reception since 2021, in charge of communication and support with the different areas.
 							</small><p></p>
+							<a class="link-vermas" href="cacosta.php">See more</a>
 						</div>
 					</div>
 				</div>
