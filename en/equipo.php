@@ -137,9 +137,21 @@
 							<br><br>
 							<h2>Carlos Acuña Rivera</h2></a>
 							<hr>
-							<small>
-								School teaching at Santiago College and Lawyer at the Universidad del Desarrollo, with a postgraduate degree in “Criminal Procedural Law” and another in “Substantive Criminal Law”, both at the Catholic University of Chile.
-							</small><p></p>
+							<details>
+								<summary>
+									<small>
+										School teaching at Santiago College and Lawyer at the Universidad del Desarrollo, with a postgraduate degree in “Criminal Procedural Law” and another in “Substantive Criminal Law”, both at the Catholic University of Chile.
+									</small><br>
+								</summary>
+									<small>
+										He has continuously practiced the profession in different areas, both in Chile and abroad. He is currently Chief Lawyer and Partner of the Manuel Acuña Kairath y Cía Ltda Law Firm.
+									</small><br>
+									<small>
+										Languages: Spanish and basic English.
+									</small>
+								
+							</details>
+							<p></p>
 						</div>
 
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="margin-bottom: 30px;">
@@ -147,9 +159,20 @@
 							<br><br>
 							<h2>Manuel Acuña Kairath</h2>
 							<hr>
-							<small>
-								Lawyer, graduated from the Faculty of Law of the Pontificia Universidad Católica de Chile in 1966.
-							</small><p></p>
+							<details>
+								<summary>
+									<small>
+										Lawyer, graduated from the Faculty of Law of the Pontificia Universidad Católica de Chile in 1966. He has practiced mainly in the areas of criminal law and litigation. Likewise, he has served as an arbitrator, having advised not only natural and legal persons, but also the State of Chile.
+									</small><br>
+								</summary>
+									<small>
+										He has a diploma from the CPU University Promotion Center in 2000 on Criminal Procedure Reform, and a diploma in Criminal Procedure Reform from the Faculty of Law of the Pontificia Universidad Católica de Chile in 2003.
+									</small><br>
+									<small>
+										He is an active glider pilot and high seas captain, having been president of the drafting commission for reform of the Aeronautical Code, and founder and head of the Study since 1977, directing it with exclusive dedication to date.
+									</small>
+							</details>
+							<p></p>
 						</div>
 						
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
@@ -157,9 +180,21 @@
 							<br><br>
 							<h2>Gerardo Acuña Rivera</h2>
 							<hr>
-							<small>
-								Partner of the Law Firm Manuel Acuña Kairath y Cía Ltda. Commercial Engineer from the University of Chile, postgraduate degree in Administration from the IAE Business School (Buenos Aires, Argentina).
-							</small><p></p>
+							<details>
+								<summary>
+									<small>
+										Partner of the Law Firm Manuel Acuña Kairath y Cía Ltda. Commercial Engineer from the University of Chile, postgraduate degree in Administration from the IAE Business School (Buenos Aires, Argentina), diploma in Finance and Human Resources, both from the Catholic University of Chile.
+									</small><br>
+								</summary>
+									<small>
+										He has held executive and management positions for almost 30 years in top-level companies in the financial and energy sectors.
+									</small><br>
+									<small>
+										Languages: Spanish and basic English.
+									</small>
+								
+							</details>
+							<p></p>
 						</div>
 						<br><br>
 						
@@ -180,9 +215,27 @@
 							<br><br>
 							<h2>Cristián Fuentes Uribe</h2>
 							<hr>
-							<small>
-								Lawyer graduated from the Alberto Hurtado University with a mention in Regulatory Law, with Cum Laude distinction in 2013.
-							</small><p></p>
+							<details>
+								<summary>
+									<small>
+										Lawyer graduated from the Alberto Hurtado University with a mention in Regulatory Law, with Cum Laude distinction in 2013.
+									</small><br>
+								</summary>
+									<small>
+										He completed an internship at Loyola University in Chicago, USA, at the Antitrust and Consumer Law Institute. In his professional career he has worked in courts (Oral Criminal Court) and in the public sector (Legal Division of the Ministry of Economy).
+									</small><br>
+									<small>
+										He has a diploma in Administrative Law from the Pontificia Universidad Católica de Chile.
+									</small><br>
+									<small>
+										His professional practice is mainly focused on the areas of civil, criminal, administrative litigation, and advice on corporate and company law.
+									</small><br>
+									<small>
+										Languages: Spanish and English, plus basic Japanese.
+									</small>
+								
+							</details>
+							<p></p>
 						</div>
 						
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
@@ -190,9 +243,24 @@
 							<br><br>
 							<h2>Claudia González Castillo</h2>
 							<hr>
-							<small>
-								Lawyer, Lawyer in Legal and Social Sciences of the University Alberto Hurtado.
-							</small><p></p>
+							<details>
+								<summary>
+									<small>
+										Lawyer, Lawyer in Legal and Social Sciences of the University Alberto Hurtado. Diploma in Administrative Law from the Pontificia Universidad Católica de Chile.
+									</small><br>
+								</summary>
+									<small>
+										Her professional practice was carried out in the Metropolitan Intendency of Santiago and she served as a student intern in the Council for Transparency and the Studies Directorate of the Supreme Court.
+									</small><br>
+									<small>
+										Her professional practice is oriented towards the processing of criminal, civil, administrative and commercial cases.
+									</small><br>
+									<small>
+										Languages: Spanish and basic English.
+									</small>
+								
+							</details>
+							<p></p>
 						</div>
 						
 						<br><br>
@@ -214,9 +282,21 @@
 							<br><br>
 							<h2>Alejandra Díez González</h2>
 							<hr>
-							<small>
-								Executive administrative officer of the studio since 1985, in charge of its general administration, management secretariat, files and financial management.
-							</small><p></p>
+							<details>
+								<summary>
+									<small>
+										Secretary in charge of files and controls.
+									</small>
+								</summary>
+									<small>
+										Law graduate from the University of Chile.
+									</small><br>
+									<small>
+										Executive administrative officer of the studio since 1985, in charge of its general administration, management secretariat, files and financial management.
+									</small>
+								
+							</details>
+							<p></p>
 						</div>
 
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="margin-bottom: 30px;">
@@ -224,9 +304,21 @@
 							<br><br>
 							<h2>Fernando Oróstica García</h2>
 							<hr>
-							<small>
-								Administrative of the Studio since 1983, in charge of communications with clients and procedures.
-							</small><p></p>
+							<details>
+								<summary>
+									<small>
+										Head of Operations and Logistics. Commercial Agent, professional title awarded by the Higher Institute of Commerce of Talca.
+									</small>
+								</summary>
+									<small>
+										Executive Secretary.
+									</small><br>
+									<small>
+										Administrative of the Studio since 1983, in charge of communications with clients and procedures.
+									</small>
+								
+							</details>
+							<p></p>
 						</div>
 		
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
@@ -234,9 +326,18 @@
 							<br><br>
 							<h2>Macarena Martínez Aravena</h2></a>
 							<hr>
-							<small>
-								IT administrative officer of the studio since 2010 in charge of communications, reception, IT support and secretariat.
-							</small><p></p>
+							<details>
+								<summary>
+									<small>
+										Secretary in Charge of Communications and Technological Services. ICDL digital graduate, Fundación Chile.
+									</small><br>
+								</summary>
+									<small>
+										IT administrative officer of the studio since 2010 in charge of communications, reception, IT support and secretariat.
+									</small>
+									
+							</details>
+							<p></p>
 						</div>
 
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
