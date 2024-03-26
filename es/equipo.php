@@ -136,11 +136,11 @@
 								<summary>
 									<small>
 										Enseñanza escolar en el Santiago College y Abogado de la Universidad del Desarrollo, con un post título en “Derecho Procesal Penal” y otro en “Derecho Penal Sustantivo”, ambos en la Universidad Católica de Chile.
-									</small><br>
+									</small><br><br>
 								</summary>
 									<small>
 										Ha ejercido de manera continua la profesión en distintos ámbitos, tanto en Chile como en el extranjero. Actualmente es Abogado jefe y Socio del Estudio Jurídico Manuel Acuña Kairath y Cía Ltda.
-									</small><br>
+									</small><br><br>
 									<small>
 										Idiomas: Español e Inglés básico.
 									</small>
@@ -158,11 +158,11 @@
 								<summary>
 									<small>
 										Abogado, egresado de la Facultad de Derecho de la Pontificia Universidad Católica de Chile el año 1966. Ha ejercido principalmente en las áreas del derecho penal y litigación. Asimismo, se ha desempeñado como árbitro, habiendo asesorado no sólo a personas naturales y jurídicas, sino también al Estado de Chile.
-									</small><br>
+									</small><br><br>
 								</summary>
 									<small>
 										Es diplomado del Centro de Promoción Universitaria CPU en el año 2000 sobre la Reforma Procesal Penal, y diplomado en Reforma Procesal Penal por la Facultad de Derecho de la Pontificia Universidad Católica de Chile el año 2003.
-									</small><br>
+									</small><br><br>
 									<small>
 										Es piloto activo de planeador y capitán de alta mar, habiendo sido presidente de la comisión redactora de reforma al Código Aeronáutico, y fundador y jefe del Estudio desde el año 1977, dirigiéndolo con dedicación exclusiva hasta la fecha.
 									</small>
@@ -179,11 +179,11 @@
 								<summary>
 									<small>
 										Socio del Estudio jurídico Manuel Acuña Kairath y Cía Ltda. Ingeniero Comercial de la Universidad de Chile, postgrado en Administración en el IAE Business School (Buenos Aires, Argentina), diplomado en Finanzas y en Recursos Humanos, ambos en la Universidad Católica de Chile.
-									</small><br>
+									</small><br><br>
 								</summary>
 									<small>
 										Se ha desempeñado en cargos ejecutivos y gerenciales por casi 30 años en empresas de primer nivel en los rubros financiero y de energía.
-									</small><br>
+									</small><br><br>
 									<small>
 									Idiomas: Español e inglés.
 									</small>
@@ -214,17 +214,17 @@
 								<summary>
 									<small>
 										Abogado licenciado de la Universidad Alberto Hurtado con mención en Derecho Regulatorio, con distinción Cum Laude en el año 2013.
-									</small><br>
+									</small><br><br>
 								</summary>
 									<small>
 										Realizó una pasantía en la Universidad de Loyola en Chicago, EEUU, en el Instituto de Antitrust and Consumer Law. En su carrera profesional ha trabajado en tribunales (Tribunal Oral en lo Penal) y en el sector público (División Jurídica del Ministerio de Economía).
-									</small><br>
+									</small><br><br>
 									<small>
 										Tiene un diplomado en Derecho Administrativo de la Pontificia Universidad Católica de Chile.
-									</small><br>
+									</small><br><br>
 									<small>
 										Su ejercicio profesional se orienta principalmente en las áreas de litigación civil, penal, administrativa, y en asesoría en derecho corporativo y societario.
-									</small><br>
+									</small><br><br>
 									<small>
 										Idiomas: Español e inglés, además de japonés básico.
 									</small>
@@ -242,14 +242,14 @@
 								<summary>
 									<small>
 										Abogada Licenciada en Ciencias Jurídicas de la Universidad Alberto Hurtado. Diplomado en Derecho Administrativo de la Pontificia Universidad Católica de Chile.
-									</small><br>
+									</small><br><br>
 								</summary>
 									<small>
 										Su práctica profesional la realizó en la Intendencia Metropolitana de Santiago y se desempeñó como alumna pasante en el Consejo para la Transparencia y la Dirección de Estudios de la Corte Suprema.
-									</small><br>
+									</small><br><br>
 									<small>
 										Su ejercicio profesional se orienta a la tramitación de causas penales, civiles, administrativas y comerciales.
-									</small><br>
+									</small><br><br>
 									<small>
 										Idiomas: Español e Inglés básico.
 									</small>
@@ -282,11 +282,11 @@
 								<summary>
 									<small>
 										Secretaria encargada de archivos y controles.
-									</small>
+									</small><br><br>
 								</summary>
 									<small>
 										Egresada de Derecho de la Universidad de Chile.
-									</small><br>
+									</small><br><br>
 									<small>
 										Administrativa ejecutiva del estudio desde el año 1985, a cargo de la administración general del mismo, secretaría gerencial, sus archivos y manejo económico. 
 									</small>
@@ -304,11 +304,11 @@
 								<summary>
 									<small>
 										Jefe de Operaciones y Logística. Agente Comercial, título profesional otorgado por el Instituto Superior de Comercio de Talca.
-									</small>
+									</small><br><br>
 								</summary>
 									<small>
 										Secretario Ejecutivo.
-									</small><br>
+									</small><br><br>
 									<small>
 										Administrativo del Estudio desde el año 1983, a cargo de las comunicaciones con los clientes y trámites. 
 									</small>
@@ -326,7 +326,7 @@
 								<summary>
 									<small>
 										Secretaria Encargada de Comunicaciones y Servicios Tecnológicos. Licenciada digital ICDL, Fundación Chile.
-									</small><br>
+									</small><br><br>
 								</summary>
 									<small>
 										Administrativa informática del estudio desde el año 2010 a cargo de las comunicaciones, recepción, apoyo informático y secretaría.

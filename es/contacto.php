@@ -194,7 +194,7 @@
 				<!-- Metros cercanos -->
 				<div class="row col-12">
 					<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-						<h4><img style="width:50px;" src="../img/metro-logo.png"> Metro Bellas Artes</h4>
+						<h4><img style="width:50px;" src="../img/metro-logo.png"> Metro Plaza de Armas</h4>
 					</div>
 					<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
 						<h4><img style="width:50px;" src="../img/metro-logo.png"> Metro Santa Lucía</h4>
