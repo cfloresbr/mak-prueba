@@ -4,7 +4,6 @@ html {
 body {
 	position: relative;
 	background: #ffffff;
-	-webkit-font-smoothing: antialiased;
 	font-family: "Open Sans",sans-serif;
 }
 
@@ -27,9 +26,12 @@ details summary::before {
 	font-size: 1rem;
 	top: 100%;
 	left: 0px;
-	text-decoration: underline;
+	text-decoration: none;
 	color:#4C0D06;
 	margin-top: 10px;
+}
+details summary:hover {  
+	text-decoration: underline!important;
 }
 
 details[open] summary::before {
@@ -441,6 +443,7 @@ small{
 	font-family: "Open Sans",sans-serif;
 	font-size: 0.938rem!important;
 	text-align: justify!important;
+	line-height: normal!important;
 }
 .texto-breads{
 	color:#4C0D06!important;
