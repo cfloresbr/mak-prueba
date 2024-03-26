@@ -29,8 +29,6 @@ details summary::before {
 	text-decoration: none;
 	color:#4C0D06;
 	margin-top: 10px;
-}
-details summary:hover {  
 	text-decoration: underline!important;
 }
 
@@ -441,7 +439,7 @@ p{
 small{
 	color: #707070;
 	font-family: "Open Sans",sans-serif;
-	font-size: 0.938rem!important;
+	font-size: 1.2rem!important;
 	text-align: justify!important;
 	line-height: normal!important;
 }
