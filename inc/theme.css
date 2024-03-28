@@ -18,6 +18,7 @@ details summary {
 	font-size: 1.25rem;
 	cursor: pointer;
 	list-style: none;
+	line-height: normal!important;
 }
 
 details summary::before {
@@ -437,6 +438,13 @@ p{
 	
 }
 small{
+	color: #707070;
+	font-family: "Open Sans",sans-serif;
+	font-size: 1rem!important;
+	text-align: justify!important;
+	line-height: normal!important;
+}
+small summary{
 	color: #707070;
 	font-family: "Open Sans",sans-serif;
 	font-size: 1rem!important;
