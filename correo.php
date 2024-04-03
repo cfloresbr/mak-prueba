@@ -40,7 +40,7 @@ try {
     $mail->Username = 'carlos.a.flores.a@gmail.com';             // SMTP username
     $mail->Password = 'Wolphshark1996';                           // SMTP password
     $mail->SMTPSecure = 'tls';                            // Enable SSL encryption, TLS also accepted with port 465
-    $mail->Port = 587;                                    // TCP port to connect to
+    $mail->Port = 25;                                    // TCP port to connect to
 //25
     //Recipients
     $mail->setFrom('carlos.a.flores.a@gmail.com', 'Contacto');          //This is the email your form sends From
