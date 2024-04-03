@@ -35,15 +35,15 @@ try {
     //Server settings
     //$mail->SMTPDebug = 2;                                 // Enable verbose debug output
     $mail->isSMTP();                                      // Set mailer to use SMTP
-    $mail->Host = 'smtp.office365.com';                  // Specify main and backup SMTP servers
+    $mail->Host = 'smtp.gmail.com';                  // Specify main and backup SMTP servers
     $mail->SMTPAuth = true;                               // Enable SMTP authentication
-    $mail->Username = 'info@itservice.consulting';             // SMTP username
-    $mail->Password = 'ServiceIT@2023.';                           // SMTP password
+    $mail->Username = 'carlos.a.flores.a@gmail.com';             // SMTP username
+    $mail->Password = 'Wolphshark1996';                           // SMTP password
     $mail->SMTPSecure = 'tls';                            // Enable SSL encryption, TLS also accepted with port 465
-    $mail->Port = 25;                                    // TCP port to connect to
-
+    $mail->Port = 587;                                    // TCP port to connect to
+//25
     //Recipients
-    $mail->setFrom('info@itservice.consulting', 'Contacto');          //This is the email your form sends From
+    $mail->setFrom('carlos.a.flores.a@gmail.com', 'Contacto');          //This is the email your form sends From
     $mail->addAddress('cflores@itservice.consulting', 'MAK'); // Add a recipient address
     //$mail->addAddress('ivalderrama.lorca@gmail.com', 'Joe User'); // Add a recipient address
 
