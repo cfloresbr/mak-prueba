@@ -19,6 +19,7 @@
 		<link href="../inc/animate.css" rel="stylesheet" type="text/css" media="screen, projection">
 		<link href="../inc/portfolio.css" rel="stylesheet" type="text/css" media="screen">
 		<link href="../inc/contact.css" type="text/css" rel="stylesheet" media="screen">
+		<link rel="icon" type="image/png" href="../img/shortcut.png"/>
 		
 		<script src="https://use.fontawesome.com/releases/v5.13.1/js/all.js" defer crossorigin="anonymous"></script>
         <script src="https://use.fontawesome.com/releases/v5.13.1/js/v4-shims.js" defer crossorigin="anonymous"></script>
