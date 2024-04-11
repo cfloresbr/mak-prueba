@@ -38,9 +38,9 @@ try {
     $mail->Host = 'smtp.gmail.com';                  // Specify main and backup SMTP servers
     $mail->SMTPAuth = true;                               // Enable SMTP authentication
     $mail->Username = 'carlos.a.flores.a@gmail.com';             // SMTP username
-    $mail->Password = 'Wolphshark1996';                           // SMTP password
-    $mail->SMTPSecure = 'tls';                            // Enable SSL encryption, TLS also accepted with port 465
-    $mail->Port = 25;                                    // TCP port to connect to
+    $mail->Password = 'jweu feul fplo gfpt';                           // SMTP password
+    $mail->SMTPSecure = 'ssl';                            // Enable SSL encryption, TLS also accepted with port 465
+    $mail->Port = 465;                                    // TCP port to connect to
 //25
     //Recipients
     $mail->setFrom('carlos.a.flores.a@gmail.com', 'Contacto');          //This is the email your form sends From
