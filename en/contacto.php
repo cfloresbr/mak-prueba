@@ -112,7 +112,7 @@
 						</div>
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
 							<!-- Datos de contacto -->
-							<p><i class="fa fa-map-marker pre" style="margin-right: 0.5rem; color: #4C0D06;" aria-hidden="true"></i>Huérfanos 835, office 1703, building Opera, Santiago</p>
+							<p><i class="fa fa-map-marker pre" style="margin-right: 0.5rem; color: #4C0D06;" aria-hidden="true"></i>Huérfanos 835, office 1703, Opera building, Santiago</p>
 						</div>
 						<div class="col-lg-2 col-md-2 col-sm-12 col-xs-12" style="margin-bottom: 20px;">
 							<!-- Correo con link de contacto-->
