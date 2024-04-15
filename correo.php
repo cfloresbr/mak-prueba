@@ -39,8 +39,8 @@ try {
     $mail->SMTPAuth = true;                               // Enable SMTP authentication
     $mail->Username = 'info.mak.abogados@gmail.com';             // SMTP username
     $mail->Password = 'ggzj fsav wnro cmfm';                           // SMTP password
-    $mail->SMTPSecure = 'ssl';                            // Enable SSL encryption, TLS also accepted with port 465
-    $mail->Port = 465;                                    // TCP port to connect to
+    $mail->SMTPSecure = 'tls';                            // Enable SSL encryption, TLS also accepted with port 465
+    $mail->Port = 587;                                    // TCP port to connect to
 //25
     //Recipients
     $mail->setFrom('info.mak.abogados@gmail.com', 'Contacto');          //This is the email your form sends From
