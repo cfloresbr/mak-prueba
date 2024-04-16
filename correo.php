@@ -38,13 +38,13 @@ try {
     $mail->Host = 'smtp.gmail.com';                  // Specify main and backup SMTP servers
     $mail->SMTPAuth = true;                               // Enable SMTP authentication
     $mail->Username = 'info.mak.abogados@gmail.com';             // SMTP username
-    $mail->Password = 'ggzj fsav wnro cmfm';                           // SMTP password
+    $mail->Password = 'wiym aaum bivs uxeq';                           // SMTP password
     $mail->SMTPSecure = 'tls';                            // Enable SSL encryption, TLS also accepted with port 465
     $mail->Port = 25;                                    // TCP port to connect to
 //25
     //Recipients
     $mail->setFrom('info.mak.abogados@gmail.com', 'Contacto');          //This is the email your form sends From
-    $mail->addAddress('mak@mak.cl', 'MAK'); // Add a recipient address
+    $mail->addAddress('cflores@itservice.consulting', 'MAK'); // Add a recipient address
     //$mail->addAddress('ivalderrama.lorca@gmail.com', 'Joe User'); // Add a recipient address
 
     //Content
