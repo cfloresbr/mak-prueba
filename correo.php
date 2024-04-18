@@ -43,7 +43,7 @@ try {
     $mail->Port = 25;                                    // TCP port to connect to
 //25
     //Recipients
-    $mail->setFrom('info.mak.abogados@gmail.com', 'Contacto');          //This is the email your form sends From
+    $mail->setFrom('info.mak.abogados@gmail.com', 'Contacto Portal');          //This is the email your form sends From
     $mail->addAddress('mak@mak.cl', 'MAK'); // Add a recipient address
     //$mail->addAddress('ivalderrama.lorca@gmail.com', 'Joe User'); // Add a recipient address
 
