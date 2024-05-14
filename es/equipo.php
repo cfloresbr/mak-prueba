@@ -335,7 +335,7 @@
 							<p></p>
 						</div>
 					</div>
-					<div class="row">
+					<div class="row mt-2">
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
 							<img width="100%" src="../img/mak-vista-9.png">
 							<br><br>
