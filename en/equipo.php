@@ -276,7 +276,7 @@
 					<h1>
 						Administrative team
 					</h1><p></p>
-					<div class="row">
+					<div class="row mb-3">
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="margin-bottom: 30px;">
 							<img width="100%" src="../img/foto1.png">
 							<br><br>
