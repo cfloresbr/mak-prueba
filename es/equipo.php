@@ -98,15 +98,12 @@
 			<div class="container">
 				<div class="section_header" style="margin-top: 30px;">
 					<!-- Título de página -->
-					<h1>Equipo de abogados</h1>
+					<h1>Socios</h1>
 				</div>
 			</div>
 			<div class="container">        
 				<div class="mb-5">
 					<br>
-					<h2>
-						Socios
-					</h2><p></p>
 					<div class="row">
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="margin-bottom: 30px;">
 							<img width="100%" src="../img/mak-7.png">
