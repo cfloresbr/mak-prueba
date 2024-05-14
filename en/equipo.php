@@ -114,6 +114,7 @@
 		<div class="">
 			<div class="container">        
 				<div class="">
+					<br>
 					<h2>
 						Partners
 					</h2><p></p>
@@ -196,7 +197,7 @@
 					Lawyer team
 				</h1>
 				<br>
-				<h3>
+						<h3>
 							<!-- Presentación -->
 							<p>
 								The lawyers that comprise it belong to different generations of professionals, who are in permanent interaction and study to enhance their experiences and skills.
@@ -204,7 +205,6 @@
 							<p>
 								Lawyers who have trained in this Firm have later become Court Ministers and have held other important public and private positions.
 							</p>
-							<br>
 						</h3>
 				<div class="">
 					<div class="row">
@@ -269,7 +269,7 @@
 
 		<!-- Equipo administrativo -->
 		<div class="">
-			<div class="container">        
+			<div class="container pt-4 pb-4">        
 				<div class="" style="">
 					<h1>
 						Administrative team
