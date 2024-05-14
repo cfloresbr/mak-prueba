@@ -295,10 +295,11 @@
 									<small>
 										Jefe de Operaciones y Logística. Agente Comercial, título profesional otorgado por el Instituto Superior de Comercio de Talca.
 									</small><br><br>
-								</summary>
+								
 									<small>
 										Secretario Ejecutivo.
 									</small><br><br>
+								</summary>
 									<small>
 										Administrativo del Estudio desde el año 1983, a cargo de las comunicaciones con los clientes y trámites. 
 									</small>

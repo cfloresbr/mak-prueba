@@ -123,7 +123,7 @@
 
 										<p>
 										Gerardo Andrés Acuña es socio e ingeniero comercial y Carlos Arturo Acuña es socio y el abogado jefe del Estudio.
-										</p>
+										</p><br>
 									</div>
 									<br>
 									<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
