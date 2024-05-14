@@ -184,7 +184,17 @@
 			<div class="container mt-2">    
 				<h1>
 					Equipo de abogados
-				</h1><p></p>    
+				</h1><p></p>
+						<h3>
+							<!-- Presentación -->
+							<p>
+							Los abogados que lo componen pertenecen a distintas generaciones de profesionales, que están en permanente interacción y estudio para potenciar sus experiencias y habilidades.
+							</p>
+							<p>
+							Abogados que se han formado en este Estudio han pasado a ser después Ministros de Corte y han desempeñado otros importantes cargos públicos y privados.
+							</p>
+							<br><br>
+						</h3>    
 				<div class="">
 					<div class="row">
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="margin-bottom: 30px;">
@@ -257,7 +267,7 @@
 					</h1><p></p>
 					<div class="row">
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="margin-bottom: 30px;">
-							<img width="100%" src="../img/foto-1.png">
+							<img width="100%" src="../img/foto1.png">
 							<br><br>
 							<h2>Alejandra Díez González</h2>
 							<hr>
@@ -308,11 +318,17 @@
 							<details>
 								<summary>
 									<small>
-										Secretaria Encargada de Comunicaciones y Servicios Tecnológicos. Licenciada digital ICDL, Fundación Chile.
+										Encargada de Comunicaciones y Servicios Tecnológicos. Administrativa informática del estudio desde el año 2010 a cargo de las comunicaciones, apoyo computacional y secretaría.
 									</small><br><br>
 								</summary>
 									<small>
-										Administrativa informática del estudio desde el año 2010 a cargo de las comunicaciones, recepción, apoyo informático y secretaría.
+									Analista de Sistemas, Universidad Ciencias de la Informática - UCINF
+									</small>
+									<small>
+									Programador Informático, Universidad Ciencias de la Informática - UCINF
+									</small>
+									<small>
+									Licenciada digital ICDL, Fundación Chile.
 									</small>
 								
 							</details>
@@ -332,13 +348,13 @@
 				</div>
 			</div>
 		
-		<div class="greyArea">
+		<!--<div class="greyArea">
 
 			<div id="features">
 				<div class="container">
 					<div class="section_header">
 						<h3>
-							<!-- Presentación -->
+							<-- Presentación --
 							<p>
 							Los abogados que lo componen pertenecen a distintas generaciones de profesionales, que están en permanente interacción y estudio para potenciar sus experiencias y habilidades.
 							</p>
@@ -350,7 +366,7 @@
 					</div>
 				</div>
 			</div>
-		</div>
+		</div>-->
 
 		
 
