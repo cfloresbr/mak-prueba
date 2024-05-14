@@ -101,12 +101,6 @@
 					<h1>Equipo de abogados</h1>
 				</div>
 			</div>
-
-			
-		</div>
-
-		<!-- Equipo socios -->
-		<div class="greyArea">
 			<div class="container">        
 				<div class="">
 					<h1>
@@ -114,7 +108,7 @@
 					</h1><p></p>
 					<div class="row">
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="margin-bottom: 30px;">
-							<img width="100%" src="../img/mak-7.png">
+							<img width="100%" src="../img/mak-vista7.png">
 							<br><br>
 							<h2>Carlos Acuña Rivera</h2>
 							<hr>
@@ -157,7 +151,7 @@
 						</div>
 						
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-							<img width="100%" src="../img/mak-8.png">
+							<img width="100%" src="../img/mak-vista8.png">
 							<br><br>
 							<h2>Gerardo Acuña Rivera</h2>
 							<hr>
@@ -183,25 +177,9 @@
 			</div>
 		</div>
 
-		<div id="features">
-				<div class="container">
-					<div class="section_header">
-						<h3>
-							<!-- Presentación -->
-							<p>
-							Los abogados que lo componen pertenecen a distintas generaciones de profesionales, que están en permanente interacción y estudio para potenciar sus experiencias y habilidades.
-							</p>
-							<p>
-							Abogados que se han formado en este Estudio han pasado a ser después Ministros de Corte y han desempeñado otros importantes cargos públicos y privados.
-							</p>
-							<br><br>
-						</h3>
-					</div>
-				</div>
-			</div>
-
-		<!-- Equipo de abogados y abogadas -->
-		
+		<!-- Equipo socios -->
+		<div class="greyArea">
+			<!-- Equipo de abogados y abogadas -->
 			<div class="container mt-5">    
 				<h1>
 					Equipo de abogados
@@ -266,10 +244,11 @@
 				</div>
 			</div>
 		</div>
+
 		<br>
 
 		<!-- Personal administrativo -->
-		<div class="greyArea">
+		
 			<div class="container">        
 				<div class="" style="">
 					<h1>
@@ -277,7 +256,7 @@
 					</h1><p></p>
 					<div class="row">
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="margin-bottom: 30px;">
-							<img width="100%" src="../img/mak-4.png">
+							<img width="100%" src="../img/foto-1.png">
 							<br><br>
 							<h2>Alejandra Díez González</h2>
 							<hr>
@@ -348,6 +327,25 @@
 								Administrativa Encargada de Recepción del Estudio desde el año 2021, a cargo de la comunicación y apoyo con las distintas áreas.
 							</small><p></p>
 						</div>
+					</div>
+				</div>
+			</div>
+		
+		<div class="greyArea">
+
+			<div id="features">
+				<div class="container">
+					<div class="section_header">
+						<h3>
+							<!-- Presentación -->
+							<p>
+							Los abogados que lo componen pertenecen a distintas generaciones de profesionales, que están en permanente interacción y estudio para potenciar sus experiencias y habilidades.
+							</p>
+							<p>
+							Abogados que se han formado en este Estudio han pasado a ser después Ministros de Corte y han desempeñado otros importantes cargos públicos y privados.
+							</p>
+							<br><br>
+						</h3>
 					</div>
 				</div>
 			</div>
