@@ -190,11 +190,12 @@
 		</div>
 
 		<!-- Equipo de abogados y abogadas -->
-		<div class="grey-area">
+		<div class="greyArea">
 			<div class="container mt-5">    
 				<h1>
 					Lawyer team
 				</h1>
+				<br>
 				<h3>
 							<!-- Presentación -->
 							<p>
@@ -203,9 +204,8 @@
 							<p>
 								Lawyers who have trained in this Firm have later become Court Ministers and have held other important public and private positions.
 							</p>
-							<br><br>
+							<br>
 						</h3>
-						<p></p>    
 				<div class="">
 					<div class="row">
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="margin-bottom: 30px;">
@@ -333,10 +333,10 @@
 								</summary>
 									<small>
 									Systems Analyst, Computer Science University - UCINF
-									</small>
+									</small><br><br>
 									<small>
 									Computer Programmer, Computer Science University - UCINF
-									</small>
+									</small><br><br>
 									<small>
 									ICDL digital graduate, Fundación Chile.
 									</small>
@@ -352,7 +352,7 @@
 							<hr>
 							<small>
 								Secretary and administrator in charge of Study Reception since 2021, in charge of communication and support with the different areas.
-							</small>
+							</small><br><br>
 							<small>
 								Administrative Secretary, accounting mention.
 							</small>

@@ -193,7 +193,7 @@
 							<p>
 							Abogados que se han formado en este Estudio han pasado a ser después Ministros de Corte y han desempeñado otros importantes cargos públicos y privados.
 							</p>
-							<br><br>
+							<br>
 						</h3>    
 				<div class="">
 					<div class="row">
@@ -323,10 +323,10 @@
 								</summary>
 									<small>
 									Analista de Sistemas, Universidad Ciencias de la Informática - UCINF
-									</small>
+									</small><br><br>
 									<small>
 									Programador Informático, Universidad Ciencias de la Informática - UCINF
-									</small>
+									</small><br><br>
 									<small>
 									Licenciada digital ICDL, Fundación Chile.
 									</small>
@@ -342,9 +342,9 @@
 							<hr>
 							<small>
 								Secretaria y administrativa encargada de Recepción del Estudio desde el año 2021, a cargo de la comunicación y apoyo con las distintas áreas.
-							</small>
+							</small><br><br>
 							<small>
-								Secretaria Administrativa, mención contabilidad. 
+								Administrative Secretary, accounting mention.
 							</small>
 							
 							<p></p>
