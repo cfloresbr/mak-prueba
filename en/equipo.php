@@ -192,7 +192,7 @@
 
 		<!-- Equipo de abogados y abogadas -->
 		<div class="greyArea">
-			<div class="container mt-5">    
+			<div class="container mt-3">    
 				<h1>
 					Lawyer team
 				</h1>
@@ -271,6 +271,8 @@
 		<div class="">
 			<div class="container pt-4 pb-4">        
 				<div class="" style="">
+					<br>
+					<br>
 					<h1>
 						Administrative team
 					</h1><p></p>
