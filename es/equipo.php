@@ -338,7 +338,7 @@
 						</div>
 
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-							<img width="100%" src="../img/silueta-m.png">
+							<img width="100%" src="../img/mak-vista-9.png">
 							<br><br>
 							<h2>Claudia Acosta Levín</h2>
 							<hr>

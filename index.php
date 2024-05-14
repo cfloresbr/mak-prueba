@@ -120,11 +120,11 @@
 								<div class="row">
 									<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
 										<p>
-										El ejercicio del Estudio se centra en la litigación y asesoría jurídica, las que abarcan a distintas personas, sociedades, organismos públicos, entre otros. El equipo está altamente capacitado en distintos campos del ejercicio profesional, desde lo penal; civil; abarcando todo tipo de juicios, como indemnizatorios y responsabilidad contractual y extracontractual; comercial, desde la negociación y la redacción de contratos de diversos clientes del Estudio, como asimismo obteniendo el cumplimiento judicial de contratos y resarcimientos.
+										El ejercicio del Estudio se centra en la litigación y asesoría jurídica, las que abarcan a distintas personas, sociedades, organismos públicos, entre otros. El equipo está altamente capacitado en distintos campos del ejercicio profesional, abarcando todo tipo de juicios, asesorando negociaciones de alta complejidad, participando en la redacción de contratos y en el cumplimiento de estos mismos.
 										</p>
 
 										<p>
-										El Estudio ha llevado con éxito por casi 50 años variados casos de las más diversas ramas del Derecho, hasta las más altas instancias y Tribunales de la República. <!--(<a class="link-vermas" href="es/noticias.php">Ver noticias</a>)-->
+										El Estudio ha llevado con éxito, por casi 50 años, variados casos de las más diversas ramas del Derecho, hasta las más altas instancias y Tribunales de la República. <!--(<a class="link-vermas" href="es/noticias.php">Ver noticias</a>)-->
 										</p>
 
 										<p>

@@ -100,10 +100,10 @@
 								<div class="row">
 									<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
 										<p>
-											The practice of the Firm focuses on litigation and legal advice, which covers different people, companies, public organizations, among others. The team is highly trained in different fields of professional practice, from criminal; civil; covering all types of lawsuits, such as compensation and contractual and extra-contractual liability; commercial, from the negotiation and drafting of contracts for various clients of the Firm, as well as obtaining judicial compliance with contracts and compensation.
+											The practice of the Firm focuses on litigation and legal advice, which covers different people, companies, public organizations, among others. The team is highly trained in different fields of professional practice, covering all types of trials, advising on highly complex negotiations, participating in the drafting of contracts and their compliance.
 										</p>
 										<p>
-											For almost 50 years, the Firm has successfully handled various cases from the most diverse branches of Law, up to the highest levels and Courts of the Republic. (link to news section).
+											The Firm has successfully handled, for almost 50 years, varied cases from the most diverse branches of Law, up to the highest levels and Courts of the Republic.
 										</p>
 										<p>
 											In recent years, the founding partner of the Law Firm has stopped being on the front line, delegating part of this responsibility to his children, along with those who manage it.
