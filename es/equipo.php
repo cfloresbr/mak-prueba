@@ -102,7 +102,7 @@
 				</div>
 			</div>
 			<div class="container">        
-				<div class="mb-3">
+				<div class="mb-5">
 					<br>
 					<h2>
 						Socios
@@ -181,7 +181,7 @@
 		<!-- Equipo socios -->
 		<div class="greyArea">
 			<!-- Equipo de abogados y abogadas -->
-			<div class="container mt-5">    
+			<div class="container mt-2">    
 				<h1>
 					Equipo de abogados
 				</h1><p></p>    
