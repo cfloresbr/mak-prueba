@@ -266,10 +266,9 @@
 				</div>
 			</div>
 		</div>
-		<br>
 
 		<!-- Equipo administrativo -->
-		<div class="greyArea">
+		<div class="">
 			<div class="container">        
 				<div class="" style="">
 					<h1>
