@@ -107,34 +107,19 @@
 				</div>
 			</div>
 
-			<div id="features">
-				<div class="container">
-					<div class="section_header">
-						<h3>
-							<!-- Presentación -->
-							<p>
-								The lawyers that comprise it belong to different generations of professionals, who are in permanent interaction and study to enhance their experiences and skills.
-							</p>
-							<p>
-								Lawyers who have trained in this Firm have later become Court Ministers and have held other important public and private positions.
-							</p>
-							<br><br>
-						</h3>
-					</div>
-				</div>
-			</div>
+			
 		</div>
 
 		<!-- Socios -->
-		<div class="greyArea">
+		<div class="">
 			<div class="container">        
 				<div class="">
-					<h1>
+					<h2>
 						Partners
-					</h1><p></p>
+					</h2><p></p>
 					<div class="row">
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-							<img width="100%" src="../img/mak-7.png">
+							<img width="100%" src="../img/mak-vista7.png">
 							<br><br>
 							<h2>Carlos Acuña Rivera</h2></a>
 							<hr>
@@ -177,7 +162,7 @@
 						</div>
 						
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-							<img width="100%" src="../img/mak-8.png">
+							<img width="100%" src="../img/mak-vista8.png">
 							<br><br>
 							<h2>Gerardo Acuña Rivera</h2>
 							<hr>
@@ -205,10 +190,22 @@
 		</div>
 
 		<!-- Equipo de abogados y abogadas -->
+		<div class="grey-area">
 			<div class="container mt-5">    
 				<h1>
 					Lawyer team
-				</h1><p></p>    
+				</h1>
+				<h3>
+							<!-- Presentación -->
+							<p>
+								The lawyers that comprise it belong to different generations of professionals, who are in permanent interaction and study to enhance their experiences and skills.
+							</p>
+							<p>
+								Lawyers who have trained in this Firm have later become Court Ministers and have held other important public and private positions.
+							</p>
+							<br><br>
+						</h3>
+						<p></p>    
 				<div class="">
 					<div class="row">
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="margin-bottom: 30px;">
@@ -268,6 +265,7 @@
 					</div>
 				</div>
 			</div>
+		</div>
 		<br>
 
 		<!-- Equipo administrativo -->
@@ -330,11 +328,17 @@
 							<details>
 								<summary>
 									<small>
-										Secretary in Charge of Communications and Technological Services. ICDL digital graduate, Fundación Chile.
+									Head of Communications and Technological Services. IT administrative officer of the studio since 2010 in charge of communications, computer support and secretariat.
 									</small><br><br>
 								</summary>
 									<small>
-										IT administrative officer of the studio since 2010 in charge of communications, reception, IT support and secretariat.
+									Systems Analyst, Computer Science University - UCINF
+									</small>
+									<small>
+									Computer Programmer, Computer Science University - UCINF
+									</small>
+									<small>
+									ICDL digital graduate, Fundación Chile.
 									</small>
 									
 							</details>
@@ -342,13 +346,17 @@
 						</div>
 
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-							<img width="100%" src="../img/silueta-m.png">
+							<img width="100%" src="../img/mak-vista-9.png">
 							<br><br>
 							<h2>Claudia Acosta Levín</h2>
 							<hr>
 							<small>
-								Administrative Manager in charge of Study Reception since 2021, in charge of communication and support with the different areas.
-							</small><p></p>
+								Secretary and administrator in charge of Study Reception since 2021, in charge of communication and support with the different areas.
+							</small>
+							<small>
+								Administrative Secretary, accounting mention.
+							</small>
+							<p></p>
 						</div>
 					</div>
 				</div>

@@ -341,8 +341,13 @@
 							<h2>Claudia Acosta Levín</h2>
 							<hr>
 							<small>
-								Administrativa Encargada de Recepción del Estudio desde el año 2021, a cargo de la comunicación y apoyo con las distintas áreas.
-							</small><p></p>
+								Secretaria y administrativa encargada de Recepción del Estudio desde el año 2021, a cargo de la comunicación y apoyo con las distintas áreas.
+							</small>
+							<small>
+								Secretaria Administrativa, mención contabilidad. 
+							</small>
+							
+							<p></p>
 						</div>
 					</div>
 				</div>
