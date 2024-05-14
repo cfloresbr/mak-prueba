@@ -273,10 +273,11 @@
 									<small>
 										Secretaria encargada de archivos y controles.
 									</small><br><br>
-								</summary>
+								
 									<small>
 										Egresada de Derecho de la Universidad de Chile.
 									</small><br><br>
+									</summary>
 									<small>
 										Administrativa ejecutiva del estudio desde el año 1985, a cargo de la administración general del mismo, secretaría gerencial, sus archivos y manejo económico. 
 									</small>
@@ -295,11 +296,10 @@
 									<small>
 										Jefe de Operaciones y Logística. Agente Comercial, título profesional otorgado por el Instituto Superior de Comercio de Talca.
 									</small><br><br>
-								
+								</summary>
 									<small>
 										Secretario Ejecutivo.
 									</small><br><br>
-								</summary>
 									<small>
 										Administrativo del Estudio desde el año 1983, a cargo de las comunicaciones con los clientes y trámites. 
 									</small>
