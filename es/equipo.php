@@ -102,22 +102,7 @@
 				</div>
 			</div>
 
-			<div id="features">
-				<div class="container">
-					<div class="section_header">
-						<h3>
-							<!-- Presentación -->
-							<p>
-							Los abogados que lo componen pertenecen a distintas generaciones de profesionales, que están en permanente interacción y estudio para potenciar sus experiencias y habilidades.
-							</p>
-							<p>
-							Abogados que se han formado en este Estudio han pasado a ser después Ministros de Corte y han desempeñado otros importantes cargos públicos y privados.
-							</p>
-							<br><br>
-						</h3>
-					</div>
-				</div>
-			</div>
+			
 		</div>
 
 		<!-- Equipo socios -->
@@ -197,6 +182,23 @@
 				</div>
 			</div>
 		</div>
+
+		<div id="features">
+				<div class="container">
+					<div class="section_header">
+						<h3>
+							<!-- Presentación -->
+							<p>
+							Los abogados que lo componen pertenecen a distintas generaciones de profesionales, que están en permanente interacción y estudio para potenciar sus experiencias y habilidades.
+							</p>
+							<p>
+							Abogados que se han formado en este Estudio han pasado a ser después Ministros de Corte y han desempeñado otros importantes cargos públicos y privados.
+							</p>
+							<br><br>
+						</h3>
+					</div>
+				</div>
+			</div>
 
 		<!-- Equipo de abogados y abogadas -->
 		
