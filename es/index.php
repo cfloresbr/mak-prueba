@@ -108,7 +108,7 @@
 						<div class="row" style="margin-bottom: 30px;">
 							<div class="col-12">
 								<div class="row">
-									<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+									<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 									<p>
 										El ejercicio del Estudio se centra en la litigación y asesoría jurídica, las que abarcan a distintas personas, sociedades, organismos públicos, entre otros. El equipo está altamente capacitado en distintos campos del ejercicio profesional, abarcando todo tipo de juicios, asesorando negociaciones de alta complejidad, participando en la redacción de contratos y en el cumplimiento de estos mismos.
 										</p>
@@ -124,6 +124,12 @@
 										<p>
 										Gerardo Andrés Acuña es socio e ingeniero comercial y Carlos Arturo Acuña es socio y el abogado jefe del Estudio.
 										</p>
+									</div>
+									<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+										<img style="width: 100%;"src="../img/mak-alta.png">
+									</div>
+									<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+										<img style="width: 100%;"src="../img/mak-alta.png">
 									</div>
 									<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
 										<img style="width: 100%;"src="../img/mak-alta.png">

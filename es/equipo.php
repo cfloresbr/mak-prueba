@@ -109,7 +109,7 @@
 					</h2><p></p>
 					<div class="row">
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="margin-bottom: 30px;">
-							<img width="100%" src="../img/mak-vista7.png">
+							<img width="100%" src="../img/mak-7.png">
 							<br><br>
 							<h2>Carlos Acuña Rivera</h2>
 							<hr>
@@ -152,7 +152,7 @@
 						</div>
 						
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-							<img width="100%" src="../img/mak-vista8.png">
+							<img width="100%" src="../img/mak-8.png">
 							<br><br>
 							<h2>Gerardo Acuña Rivera</h2>
 							<hr>
