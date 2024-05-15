@@ -112,7 +112,7 @@
 
 		<!-- Socios -->
 		<div class="">
-			<div class="container">        
+			<div class="container pb-3">        
 				<div class="">
 					<br>
 					<div class="row">
@@ -189,7 +189,7 @@
 
 		<!-- Equipo de abogados y abogadas -->
 		<div class="greyArea">
-			<div class="container mt-3">    
+			<div class="container mt-2">    
 				<h1>
 					Lawyer team
 				</h1>
