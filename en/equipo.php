@@ -113,7 +113,7 @@
 		<!-- Socios -->
 		<div class="mb-3">
 			<div class="container ">        
-				<div class="">
+				<div class="pb-3">
 					<br>
 					<div class="row">
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
