@@ -84,9 +84,48 @@
 			</nav>
 		</header>
 		
-		<!-- Portada -->
+		<!-- Portada
 		<div class="portada">
 			<img width="100%" src="../img/portada.png">
+		</div> -->
+
+		<!-- carousel -->
+		<div class="carousel">
+			<!-- list item -->
+			<div class="list">
+				<div class="item">
+					<img src="../img/slide1.png">
+				</div>
+
+				<div class="item">
+					<img src="../img/slide2.png">
+				</div>
+
+				<div class="item">
+					<img src="../img/slide3.png">
+				</div>
+			</div>
+			<!-- list thumnail -->
+			<div class="thumbnail">
+				<div class="item">
+					
+				</div>
+				<div class="item">
+					
+				</div>
+				
+				<div class="item">
+					
+				</div>
+			</div>
+			<!-- next prev -->
+
+			<div class="arrows">
+				<button id="prev"><</button>
+				<button id="next">></button>
+			</div>
+			<!-- time running -->
+			<div class="time"></div>
 		</div>
 
 		<!-- Presentación primera sección -->
@@ -293,5 +332,6 @@
 		
 		<script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"es"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxTrustedUrl":{"\/search\/node":true},"user":{"uid":0,"permissionsHash":"c76a290dcfa462d8c8c7abc7f5abf1400ebcc7ae03d287320d6e20da06dc637d"}}</script>
 		<script src="../inc/js_menu-mobile-normal.js"></script>
+		<script src="../inc/slide.js"></script>
 	</body>
 </html>
