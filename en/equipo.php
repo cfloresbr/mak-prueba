@@ -111,8 +111,8 @@
 		</div>
 
 		<!-- Socios -->
-		<div class="">
-			<div class="container pb-3">        
+		<div class="pb-3">
+			<div class="container ">        
 				<div class="">
 					<br>
 					<div class="row">
