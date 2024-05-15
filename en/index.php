@@ -98,7 +98,7 @@
 						<div class="row" style="margin-bottom: 30px;">
 							<div class="col-12">
 								<div class="row">
-									<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+									<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 										<p>
 											The practice of the Firm focuses on litigation and legal advice, which covers different people, companies, public organizations, among others. The team is highly trained in different fields of professional practice, covering all types of trials, advising on highly complex negotiations, participating in the drafting of contracts and their compliance.
 										</p>
@@ -110,10 +110,17 @@
 										</p>
 										<p>
 											Gerardo Andrés Acuña is a partner and commercial engineer and Carlos Arturo Acuña is a partner and the chief lawyer of the Firm.
-										</p>
+										</p><br>
+									</div>
+									<br>
+									<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+										<img style="width: 100%;"src="../img/mak-vista7.png">
 									</div>
 									<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
 										<img style="width: 100%;"src="../img/mak-alta.png">
+									</div>
+									<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+										<img style="width: 100%;"src="../img/mak-vista8.png">
 									</div>
 								</div>
 							</div>

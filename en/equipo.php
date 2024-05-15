@@ -103,7 +103,7 @@
 			<div class="container">
 				<div class="section_header" style="margin-top: 30px;">
 					<!-- Título de página -->
-					<h1>Team of lawyers</h1>
+					<h1>Partners</h1>
 				</div>
 			</div>
 
@@ -115,12 +115,9 @@
 			<div class="container">        
 				<div class="">
 					<br>
-					<h2>
-						Partners
-					</h2><p></p>
 					<div class="row">
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-							<img width="100%" src="../img/mak-vista7.png">
+							<img width="100%" src="../img/mak-7.png">
 							<br><br>
 							<h2>Carlos Acuña Rivera</h2></a>
 							<hr>
@@ -163,7 +160,7 @@
 						</div>
 						
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-							<img width="100%" src="../img/mak-vista8.png">
+							<img width="100%" src="../img/mak-8.png">
 							<br><br>
 							<h2>Gerardo Acuña Rivera</h2>
 							<hr>
@@ -287,10 +284,11 @@
 									<small>
 										Secretary in charge of files and controls.
 									</small><br><br>
-								</summary>
+								
 									<small>
 										Law graduate from the University of Chile.
 									</small><br><br>
+									</summary>
 									<small>
 										Executive administrative officer of the studio since 1985, in charge of its general administration, management secretariat, files and financial management.
 									</small>
