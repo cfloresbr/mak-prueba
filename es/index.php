@@ -93,9 +93,48 @@
 			</nav>
 		</header>
 		
-		<!-- Portada -->
+		<!-- Portada 
 		<div class="portada">
 			<img width="100%" src="../img/portada.png">
+		</div>-->
+
+		<!-- carousel -->
+		<div class="carousel">
+			<!-- list item -->
+			<div class="list">
+				<div class="item">
+					<img src="../img/slide1.png">
+				</div>
+
+				<div class="item">
+					<img src="../img/slide2.png">
+				</div>
+
+				<div class="item">
+					<img src="../img/slide3.png">
+				</div>
+			</div>
+			<!-- list thumnail -->
+			<div class="thumbnail">
+				<div class="item">
+					
+				</div>
+				<div class="item">
+					
+				</div>
+				
+				<div class="item">
+					
+				</div>
+			</div>
+			<!-- next prev -->
+
+			<div class="arrows">
+				<button id="prev"><</button>
+				<button id="next">></button>
+			</div>
+			<!-- time running -->
+			<div class="time"></div>
 		</div>
 		
 
