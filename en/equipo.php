@@ -188,7 +188,7 @@
 
 		<!-- Equipo de abogados y abogadas -->
 		<div class="greyArea">
-			<div class="container mt-2">    
+			<div class="container mt-3">    
 				<h1>
 					Lawyer team
 				</h1>
