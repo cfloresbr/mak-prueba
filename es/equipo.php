@@ -318,10 +318,10 @@
 									<small>
 										Encargada de Comunicaciones y Servicios Tecnológicos. 
 									</small><br><br>
-								</summary>
 									<small>
 									Administrativa informática del estudio desde el año 2010 a cargo de las comunicaciones, apoyo computacional y secretaría.
 									</small><br><br>
+								</summary>
 									<small>
 									Analista de Sistemas, Universidad Ciencias de la Informática - UCINF
 									</small><br><br>

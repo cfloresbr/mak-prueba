@@ -328,10 +328,10 @@
 									<small>
 									Head of Communications and Technological Services. 
 									</small><br><br>
-								</summary>
 									<small>
 									IT administrative officer of the studio since 2010 in charge of communications, computer support and secretariat.
 									</small><br><br>
+								</summary>
 									<small>
 									Systems Analyst, Computer Science University - UCINF
 									</small><br><br>
