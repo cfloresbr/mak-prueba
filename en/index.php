@@ -133,7 +133,7 @@
 			<div id="features">
 				<div class="container">
 					<div class="section_header col-lg-12 col-md-12 col-sm-12 col-xs-12 pb-0 mb-5">
-						<h1>Manuel Acuña Kairath Lawyers</h1>
+						<h1>Manuel Acuña Kairath - Lawyers</h1>
 						<div class="row" style="margin-bottom: 30px;">
 							<div class="col-12">
 								<div class="row">

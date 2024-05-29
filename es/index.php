@@ -20,6 +20,7 @@
 		<link href="../inc/portfolio.css" rel="stylesheet" type="text/css" media="screen">
 		<link href="../inc/contact.css" type="text/css" rel="stylesheet" media="screen">
 		<link rel="icon" type="image/png" href="../img/shortcut.png"/>
+		<link href="../inc/splide-4.1.3/dist/css/splide.min.css" rel="stylesheet">
 
 		<!-- Carrousel -->
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glider-js@1.7.8/glider.min.css">
@@ -98,44 +99,23 @@
 			<img width="100%" src="../img/portada.png">
 		</div>-->
 
-		<!-- carousel -->
-		<div class="carousel">
-			<!-- list item -->
-			<div class="list">
-				<div class="item">
-					<img src="../img/slide1.png">
-				</div>
-
-				<div class="item">
-					<img src="../img/slide2.png">
-				</div>
-
-				<div class="item">
-					<img src="../img/slide3.png">
-				</div>
+		
+		<section class="splide" aria-label="Basic Structure Example">
+			<div class="splide__track">
+				<ul class="splide__list">
+				<li class="splide__slide"><img src="../img/slide1.png"></li>
+				<li class="splide__slide"><img src="../img/slide2.png"></li>
+				<li class="splide__slide"><img src="../img/slide3.png"></li>
+				</ul>
 			</div>
-			<!-- list thumnail -->
-			<div class="thumbnail">
-				<div class="item">
-					
-				</div>
-				<div class="item">
-					
-				</div>
-				
-				<div class="item">
-					
-				</div>
-			</div>
-			<!-- next prev -->
-
-			<div class="arrows">
-				<button id="prev"><</button>
-				<button id="next">></button>
-			</div>
-			<!-- time running -->
-			<div class="time"></div>
-		</div>
+		</section>
+		<script>
+			new Splide('.splide',{
+				type: 'loop',
+				autoplay: true,
+				interval: '4000'
+			}).mount();
+		</script>
 		
 
 		<!-- Presentación y primera sección -->
@@ -143,7 +123,7 @@
 			<div id="features">
 				<div class="container">
 					<div class="section_header col-lg-12 col-md-12 col-sm-12 col-xs-12 pb-0 mb-5">
-						<h1>Manuel Acuña Kairath Abogados</h1>
+						<h1>Manuel Acuña Kairath - Abogados</h1>
 						<div class="row" style="margin-bottom: 30px;">
 							<div class="col-12">
 								<div class="row">
@@ -343,5 +323,6 @@
 		<script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"es"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxTrustedUrl":{"\/search\/node":true},"user":{"uid":0,"permissionsHash":"c76a290dcfa462d8c8c7abc7f5abf1400ebcc7ae03d287320d6e20da06dc637d"}}</script>
 		<script src="../inc/js_menu-mobile-normal.js"></script>
 		<script src="../inc/slide.js"></script>
+		<script src="../inc/splide-4.1.3/dist/js/splide.min.js"></script>
 	</body>
 </html>

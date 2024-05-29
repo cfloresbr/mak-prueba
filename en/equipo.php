@@ -326,9 +326,12 @@
 							<details>
 								<summary>
 									<small>
-									Head of Communications and Technological Services. IT administrative officer of the studio since 2010 in charge of communications, computer support and secretariat.
+									Head of Communications and Technological Services. 
 									</small><br><br>
 								</summary>
+									<small>
+									IT administrative officer of the studio since 2010 in charge of communications, computer support and secretariat.
+									</small><br><br>
 									<small>
 									Systems Analyst, Computer Science University - UCINF
 									</small><br><br>
@@ -352,9 +355,7 @@
 							<small>
 								Secretary and administrator in charge of Study Reception since 2021, in charge of communication and support with the different areas.
 							</small><br><br>
-							<small>
-								Administrative Secretary, accounting mention.
-							</small>
+							
 							<p></p>
 						</div>
 					</div>

@@ -316,9 +316,12 @@
 							<details>
 								<summary>
 									<small>
-										Encargada de Comunicaciones y Servicios Tecnológicos. Administrativa informática del estudio desde el año 2010 a cargo de las comunicaciones, apoyo computacional y secretaría.
+										Encargada de Comunicaciones y Servicios Tecnológicos. 
 									</small><br><br>
 								</summary>
+									<small>
+									Administrativa informática del estudio desde el año 2010 a cargo de las comunicaciones, apoyo computacional y secretaría.
+									</small><br><br>
 									<small>
 									Analista de Sistemas, Universidad Ciencias de la Informática - UCINF
 									</small><br><br>
@@ -342,9 +345,7 @@
 							<small>
 								Secretaria y administrativa encargada de Recepción del Estudio desde el año 2021, a cargo de la comunicación y apoyo con las distintas áreas.
 							</small><br><br>
-							<small>
-								Administrative Secretary, accounting mention.
-							</small>
+							
 							
 							<p></p>
 						</div>

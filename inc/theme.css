@@ -1101,10 +1101,10 @@ body {
 }
 @keyframes outFrame{
     to{
-        width: 150px;
+        width: ;
         height: 220px;
         bottom: 50px;
-        left: 50%;
+        left: %;
         border-radius: 20px;
     }
 }
