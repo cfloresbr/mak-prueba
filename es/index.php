@@ -21,6 +21,7 @@
 		<link href="../inc/contact.css" type="text/css" rel="stylesheet" media="screen">
 		<link rel="icon" type="image/png" href="../img/shortcut.png"/>
 		<link href="../inc/splide-4.1.3/dist/css/splide.min.css" rel="stylesheet">
+		<script src="../inc/splide-4.1.3/dist/js/splide.min.js"></script>
 
 		<!-- Carrousel -->
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glider-js@1.7.8/glider.min.css">
@@ -323,6 +324,5 @@
 		<script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"es"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxTrustedUrl":{"\/search\/node":true},"user":{"uid":0,"permissionsHash":"c76a290dcfa462d8c8c7abc7f5abf1400ebcc7ae03d287320d6e20da06dc637d"}}</script>
 		<script src="../inc/js_menu-mobile-normal.js"></script>
 		<script src="../inc/slide.js"></script>
-		<script src="../inc/splide-4.1.3/dist/js/splide.min.js"></script>
 	</body>
 </html>
