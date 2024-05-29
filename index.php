@@ -105,17 +105,18 @@
 			</nav>
 		</header>
 		
-		<!-- Portada -->
+		<!-- Portada
 		<div class="portada">
 			<img width="100%" src="img/portada.png">
 		</div>
-		
+			-->
+
 		<section class="splide" aria-label="Basic Structure Example">
 			<div class="splide__track">
 				<ul class="splide__list">
-				<li class="splide__slide"><img src="../img/slide1.png"></li>
-				<li class="splide__slide"><img src="../img/slide2.png"></li>
-				<li class="splide__slide"><img src="../img/slide3.png"></li>
+				<li class="splide__slide"><img src="img/slide1.png"></li>
+				<li class="splide__slide"><img src="img/slide2.png"></li>
+				<li class="splide__slide"><img src="img/slide3.png"></li>
 				</ul>
 			</div>
 		</section>
