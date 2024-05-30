@@ -18,6 +18,8 @@
 		<link href="inc/portfolio.css" rel="stylesheet" type="text/css" media="screen">
 		<link href="inc/contact.css" type="text/css" rel="stylesheet" media="screen">
 		<link rel="icon" type="image/png" href="img/shortcut.png"/>
+
+		<!-- Carrusel portada -->
 		<link href="inc/splide-4.1.3/dist/css/splide.min.css" rel="stylesheet">
 		<script src="inc/splide-4.1.3/dist/js/splide.min.js"></script>
 
@@ -113,9 +115,9 @@
 		<section class="splide" aria-label="Basic Structure Example">
 			<div class="splide__track">
 				<ul class="splide__list">
-				<li class="splide__slide"><img style="width:100%" src="../img/slide1.png"></li>
-				<li class="splide__slide"><img style="width:100%" src="../img/slide2.png"></li>
-				<li class="splide__slide"><img style="width:100%" src="../img/slide3.png"></li>
+				<li class="splide__slide"><img style="width:100%" src="img/slide1.png"></li>
+				<li class="splide__slide"><img style="width:100%" src="img/slide2.png"></li>
+				<li class="splide__slide"><img style="width:100%" src="img/slide3.png"></li>
 				</ul>
 			</div>
 		</section>

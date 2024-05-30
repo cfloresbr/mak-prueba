@@ -20,6 +20,8 @@
 		<link href="../inc/portfolio.css" rel="stylesheet" type="text/css" media="screen">
 		<link href="../inc/contact.css" type="text/css" rel="stylesheet" media="screen">
 		<link rel="icon" type="image/png" href="../img/shortcut.png"/>
+
+		<!-- Carrusel portada -->
 		<link href="../inc/splide-4.1.3/dist/css/splide.min.css" rel="stylesheet">
 		<script src="../inc/splide-4.1.3/dist/js/splide.min.js"></script>
 
